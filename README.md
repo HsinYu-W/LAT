@@ -7,5 +7,5 @@ LAT (Learning Analytics Tools)
 ----------
 目錄
 ====
-* 作業連結區
-作業1: https://github.com/HsinYu-W/LAT/blob/main/week%203/HW%201.ipynb
+作業連結區
+- 作業1: https://github.com/HsinYu-W/LAT/blob/main/week%203/HW%201.ipynb
