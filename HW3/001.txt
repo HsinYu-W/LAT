@@ -1,0 +1,2379 @@
+sustainability
+
+Article
+
+Digital Transformation and Marketing Activities in Small and Medium-Sized Enterprises
+
+Marta Joanna Ziółkowska
+
+Institute of Management, SGH Warsaw School of Economics, 02-554 Warsaw, Poland; mziolkow@sgh.waw.pl Abstract: Digital transformation which impacts business operations is one of the most fundamental social and economic occurrences of our times. The paper seeks to find out how digital transformation impacts marketing activities in small and medium-sized enterprises (SMEs) and to examine overall changes triggered by digital technology in the marketing concept, its instruments, and activities in SMEs in Poland. The main research question focuses on the direction in which marketing activities performed by organisations evolve nowadays. Analyses and considerations are based on logical inference, examination of results of empirical studies, critical literature review, and author’s market observations. Conducted analyses have demonstrated that, in enterprises covered by the study, digital technologies are deployed in marketing rather widely, although in many instances these technologies belong to the category of traditional tools. IT technologies and digital tools also impact marketing, helping to build relationships with clients and creating the value of each organisation.
+
+Keywords: marketing; Poland; digital transformation; small and medium sized enterprises
+
+
+
+
+
+Citation: Ziółkowska, M.J. Digital
+
+1. Introduction
+
+Transformation and Marketing
+
+Activities in Small and Medium-Sized
+
+Digital transformation, most frequently identified with multi-factor effects of digital Enterprises. Sustainability 2021, 13,
+
+technologies on an organisation, is one of the crucial occurrences that describe our social 2512. https://doi.org/10.3390/
+
+and economic reality here and now across the globe. It manifests itself in the incorporation
+
+su13052512
+
+of digital technologies into all operational aspects of activities of an organisation.
+
+In trying to keep pace with the technological progress and unrolling social changes Academic Editors: Danuta Zawadzka
+
+triggered by the X, Y, and Z generations, businesses must stand up to the challenge and use and Andrea Pérez
+
+diverse modern marketing communication instruments [1], including those linked with sustainable growth [2,3]. That is a must if they want to survive in the global market shaken Received: 10 January 2021
+
+by rapid and turbulent changes, where a contemporary customer becomes a co-creator of Accepted: 22 February 2021
+
+value. Technology, used previously to drive costs down and improve business processes, Published: 26 February 2021
+
+has revealed its potential to determine the overall direction of change in the functioning of an organisation.
+
+Publisher’s Note: MDPI stays neutral
+
+Today we can observe a phenomenon referred to as “digital revolution” to denote with regard to jurisdictional claims in
+
+fundamental changes in consumer behaviour and lifestyle, as well as in the organisation published maps and institutional affil-of economic relations. All of the above stems from the increasing importance of ICT
+
+iations.
+
+(information and communication technologies) and the Internet, which have changed the way information and data are obtained and processed, as well as transformed the way in which people communicate and establish relations between themselves.
+
+Digital marketing is defined as achieving marketing objectives through applying Copyright: © 2021 by the author.
+
+digital technologies and media [4,5]. In organisations in which digital transformation is at Licensee MDPI, Basel, Switzerland.
+
+its outset, technology is viewed as a tool that improves organisational performance, leaving This article is an open access article
+
+the previous operational framework and principles untouched. Technology brings greater distributed under the terms and
+
+potential and in its most advanced form it can lead to a complete organisational change conditions of the Creative Commons
+
+based on modern tools [6] (pp. 16–18).
+
+Attribution (CC BY) license (https://
+
+Digital transformation is mainly about the transformation of an organisation and
+
+creativecommons.org/licenses/by/
+
+processes taking place within it to bring in a new approach to products, customers, or 4.0/).
+
+Sustainability 2021, 13, 2512. https://doi.org/10.3390/su13052512
+
+https://www.mdpi.com/journal/sustainability
+
+
+
+
+
+Sustainability 2021, 13, 2512
+
+2 of 16
+
+services. It is not about making the existing processes simply more smooth or effective with the help of modern technologies. The customer, his needs, and preferences are put at the centre of a business [7]. He also becomes a co-creator of value [8] which highlights the importance of marketing in the age of digital transformation.
+
+Thus, conducting research addressing this issue with SMEs would contribute to knowledge in the area of digital transformation, marketing, and sustainability. The research gap was identified as a lack of research on how SMEs could use ICT tools and techniques to enhance digital transformation and achieve sustainable development.
+
+Information and communication technologies (ICT) have determined the functioning of entire economies, societies, enterprises, other organizations, and also every human being. These changes, known as the Industrial Revolution 4.0, led to the development of the digital economy and digital transformation of enterprises. Technological progress completely changes the environment of enterprises, forcing a change in all decision-making areas of specific entities, and also in their development strategies or business models.
+
+Digital transformation is important due to the technical progress and development of the information society. ICT is widely used in households and enterprises all over the world.
+
+The results from El Hilali et. al. [9]—which showed that customers, data and innovation, are drivers, and that companies should use marketing tools during a digital transformation—has a significant impact on companies’ quest to reach sustainability. The digital transformation is to embrace sustainability, because it requires radical changes in strategy and the business model level. To achieve sustainability in a digital era SMEs should focus on three main axes: enhancing the customer experience and adopting customer centricity, building data analytics capabilities, and shifting innovation to the business model level. Marketing is one of the pillars of digital transformation in SMEs through the customer experience approach and marketing tools used [10]. Implementation of modern digital marketing tools allows sustainable development of SMEs [11]. Thus, a digital transformation needs to be carried out continuously to ensure that the company’s value delivery to customers is better than that of its competitors. To sum up, digital transformation is not a single point process, but rather, it is a moving target [12].
+
+Literature suggest that managerial capabilities foster successful strategic-level changes, such as digital transformations, and subsequently lead to enhanced business performance [13,14]. Other research results support these findings that the idea of managerial recognition must be simultaneously focused on digitality and a sustainable strategy to achieve high financial performance [15]. Digital marketing provides new tools to know customers effectively on a large scale, and to proactively develop and enhance customer experiences. The digital technologies themselves are also a force of change, as they have become a crucial part of society and in our daily life [16].
+
+The main objective of this paper is to find out how digital economy technologies link with marketing in SMEs [17]. Marketing, which rapidly transforms under the influence of global Internet networks and IT solutions, evolves towards technology and becomes a crucial area of organisation’s operations that determines its growth, openness to innovation, and a comprehensive change in how a business operates. The thesis assumes that specific tools and methods linked with digital transformation applied in marketing are used in practice among SMEs.
+
+Digital transformation takes place when organisations use technology between platforms and functions to radically improve the quality of customer service in the major contact points. Before creating value for themselves, organisations must create value for customers [18]. For a successful transformation, organisations must be appropriately incentivised by factors such as culture, leadership, IT infrastructure, processes, etc.
+
+2. Materials and Methods
+
+Digital transformation is a comprehensive process, as a result of which organisation shifts to new working methods based on digital technologies. The process takes place at each level of the organisation, also in functional areas, such as marketing, finance, or
+
+Sustainability 2021, 13, 2512
+
+3 of 16
+
+production. It develops around a man and his needs, stimulating an organisation to change the previous operational model and often to adopt a new approach to its products and services. Digital transformation is a much deeper and wider notion than digitalisation that is strictly linked with the development of technology; it is, above all, a technological and social change consisting in creating new market relationships.
+
+Digital transformation is based on innovation in how products and services are sold and how businesses interact with their clients at each stage of customer ‘path to purchase’. It gains importance especially due to the fact that in the near future X, Y, and Z
+
+generations will constitute the majority of societies across the globe. One needs to bear in mind that these social groups see environmental issues, social responsibility, sustainable development, and building close relationships not only with the immediate surroundings but also with brands in the digital world as fundamental. Suffocated with aggressive advertising, consumers increasingly more frequently pay attention to brand authenticity.
+
+The study, whose findings are discussed in this paper, was conducted in 2020 in Poland. The quantitative research design was used, and the SMEs group was studied [19]
+
+The study population was defined as small and medium sized enterprises, which is 97% of the entire population of enterprises in Poland. The trial of the survey took place in July 2020 and gave the opportunity to clarify the questions and their order. Then, in the period 10–15 September 2020, the actual study was carried out.
+
+The presented study used the method of diagnostic survey and the tool of a survey questionnaire based on an Internet form containing a structured set of questions to which the surveyed group of respondents voluntarily and anonymously provided answers. The study was exploratory in nature and a nominal measurement scale was used.
+
+Empirical studies were carried out using computer-assisted web interviewing (CAWI).
+
+The CAWI method was used in non-experimental research design. The study population was targeted via an online structured questionnaire which was entered into the database of SMEs in Poland (approx. 1.3 million economic entities). A request was made about the use of information and communication technologies (ICT) tools in the activities of enterprises—random purposeful sampling. As a result of the research, 115 correctly completed questionnaires were received, and at the end of the research period a further lack of people willing to participate was noticed. The survey provided numeric descriptions of selected attributes of a SME’s population and the descriptive method was used to determine frequency of valuables in the population. The survey identified characteristics of the group of respondents at one point in time without exploration of the cause and effect of this characteristics. A summary of the results was made using the frequency distribution for a given variable, and they were compared by making an analysis and synthesis, which allowed formulation of final conclusions.
+
+Due to the size of the sample, the results obtained during the empirical study are survey-based and cannot be generalised for the entire population of small and medium-sized enterprises in Poland.
+
+The characteristics of the sample indicate a balanced diversity of the group of enterprises covered by the study (Table 1).
+
+When analyzing the respondents’ profile, in the survey managers constituted 53%, business owners 47%, and women constituted 50.4% of the respondents. Most of the respondents were young—54.8% of the respondents were aged 24–35. In the 36–45 age group there were 32.2% of the respondents, and the least numerous groups were people aged over 45 (13% of the total).
+
+•
+
+Macro and micro perspective on digital marketing trends
+
+Sustainability 2021, 13, 2512
+
+4 of 16
+
+Table 1. Respondents profile.
+
+Enterprise
+
+Attribute
+
+N
+
+In %
+
+10–49 people
+
+51
+
+44.3
+
+No. of employees
+
+50–249 people
+
+64
+
+55.7
+
+manufacturing
+
+27
+
+23.5
+
+Sector
+
+trade
+
+38
+
+33.0
+
+service
+
+50
+
+43.5
+
+limited company
+
+80
+
+69.6
+
+Type of ownership
+
+a sole proprietorship
+
+35
+
+30.4
+
+international
+
+29
+
+25.2
+
+national
+
+52
+
+45.2
+
+Type of scope
+
+regional
+
+22
+
+19.1
+
+local
+
+12
+
+10.4
+
+under 5
+
+32
+
+27.8
+
+Age
+
+5 years+
+
+83
+
+72.2
+
+Trends connected with digital marketing can be divided into macro and micro trends.
+
+Macro trends impact consumer behaviour or fundamental economic principles. On the other hand, micro trends determine business, marketing or selling activities of market actors and impact customer decisions (Table 2).
+
+Table 2. Macro and micro trends in digital marketing.
+
+Macro Trends
+
+Micro Trend
+
+Big data
+
+Personalisation and customization of services
+
+Artificial intelligence (AI)
+
+e-trade and e-commerce (multichannel, omnichannel, m-commerce) Internet of Things (IoT)
+
+Using smartphones
+
+Cryptocurrencies
+
+Changes in consumer communication (social media, content marketing, marketing automation) Blockchains
+
+Enhanced employee skills in using technology
+
+3D Print
+
+Changes in consumer behaviour
+
+Drones
+
+Neuromarketing
+
+Cognitive computing 1
+
+Smart cities
+
+Smart Robots
+
+MarTech—marketing technology 2
+
+Source: author’s own compilation based on [20]. 1 Cognitive computing, def.: A collection of technologies that result from studies on human brain. A combination of artificial intelligence and signal processing—two elements crucial to the development of machine consciousness technology, e.g., IBM Watson or Google Deep Mind. 2 MarTech, def: The blending of technological tools (software, platforms, systems, and tools) with soft skills in advertising and promotion.
+
+Macro trends change the previous approach to marketing and alter communication with customers. They often completely change the rules of the game by creating new market opportunities and segments [20] (pp. 214–216). Micro trends, in turn, facilitate and determine the evolution of previously undertaken actions which, as a result of changes, increasing the productivity and efficiency of marketing operations pursued by an enterprise.
+
+•
+
+Small and medium-sized enterprises in Poland in the face of digital challenges of marketing
+
+The subject-matter literature proposes many classifications of barriers and limitations faced by the SMEs in access to ICT. The lack of financial as well as human resources is one of the most frequently mentioned. The issue was already investigated in the 20th century.
+
+Blili and Raymond [21] distinguished four aspects that make the implementation of ICT in the SMEs different from their application in large enterprises or corporations. First, they pointed to differences in approach to corporate management. Second, they argued that SME development is predominantly organic, based on internal financing. The third aspect focused on SMEs usually acting as informal structures without departments or units, and,
+
+
+
+
+
+Sustainability 2021, 13, 2512
+
+5 of 16
+
+finally, the fourth one highlighted problem in financing, planning, control, knowledge management, and adapting IT systems resulting from the lack of human resources [22–25].
+
+Insufficient knowledge and skills are another barrier. New technologies and solutions are usually linked with knowledge and experience accumulated by business owners and employees. Gaps in knowledge, in particular in technical knowledge, become the key barrier to ICT implementation in the SMEs [22]. In addition, limited resources, skills, and knowledge, combined with limited impact on the market, were listed as the main barriers to SME development still before the digital era. These factors were later examined in the 21st century context by many researchers [26–30] and, importantly, remain pertinent today.
+
+Compared to enterprises from other EU Member States, the performance of Polish SMEs in marketing is very weak. For most indicators used to describe digital transformation Polish SMEs rank below the EU average. In the Digital Economy and Society Index (DESI) ranking published by the European Commission for 2019, Poland ranked 25th amongst 28 EU Member States. Although over recent years the score of the country improved, together with the EU average, Poland failed to improve its ranking position [31] (p. 3).
+
+When it comes to digital technology integration in enterprises, Poland finds itself at the 26th position in the EU. Polish enterprises increasingly more often avail themselves of opportunities offered by e-trade: 12% of SMEs sell their products and services online which is more compared to DESI 2018 but still places Poland below the EU average of 17%.
+
+Only 4% of all SMEs engage in selling their products or services online to customers in other countries, while online sales account on average for 7% of the total revenue of all Polish SMEs. Social media are used by 10% of enterprises (EU average is 21%) and 26% of enterprises use electronic data interchange devices (compared to 21% in 2016) [31] (p. 9).
+
+Although Polish SMEs more often and to a greater extent realise benefits inherent to the use of ICT (information and communication technologies), still a substantial share of small and medium-sized enterprises do not put digital solutions in place. According to the report of the Lewiatan Confederation, less than 40% of SMEs make use of ICT potential [32]
+
+(p. 12). Empirical studies suggest that enterprises which use data in an effective way grow 35% faster than their peers obtaining annual profits higher by almost 33% [33] (p. 79).
+
+When it comes to marketing, Polish SMEs most willingly use new solutions that do not require any major financial outlays, e.g., ads on the Internet, search engine marketing, or social media. Most of them carry out marketing activities using their internal resources (57.4%), a smaller group outsources marketing to external operators (42.6%) [34] (p. 39). The most frequently used tools include e-mail marketing, social media, and video marketing.
+
+Modern marketing terms and more advanced marketing strategies with modern tools, such as growth hacking, programmatic marketing, gamification on the Internet, and proximity marketing, are still little known and even less used. Remarkably, increasingly more enterprises start collaborating with influencers or plan to do it (11.5% already collaborate with influencers and 7.5% are planning to use the tool in the forthcoming 12 months) [34] (p. 39).
+
+It needs to be stressed that marketing activities in SMEs are designed predominantly to support tools used to boost sales rather than improve customer service. Small enterprises allocate on average 23% of their marketing budget for digital operations, including marketing, and online marketing expenditure increases proportionally to the size of the enterprise up to 27% in medium-sized organisations [34] (p. 40).
+
+3. Results
+
+3.1. Digital Technologies Applied in Marketing
+
+To analyze the results descriptive statistics were used. Descriptive statistics were used to characterize and discuss the features of the data in the study. The study was descriptive in nature, which sought to define the current status of categorial and nominal variables. The nominal scale was used which allows only for qualitative classification. The nominal level of measurement is qualitative and has no mathematical interpretation [35–37]. Descriptive statistics are commonly used for summarizing data frequency. Relative frequency analysis was used to show the number of occurrences of each response chosen by the respondents.
+
+
+
+
+
+Sustainability 2021, 13, x FOR PEER REVIEW
+
+6 of 16
+
+
+
+It needs to be stressed that marketing activities in SMEs are designed predominantly to support tools used to boost sales rather than improve customer service. Small enterprises allocate on average 23% of their marketing budget for digital operations, including marketing, and online marketing expenditure increases proportionally to the size of the enterprise up to 27% in medium-sized organisations [34] (p. 40).
+
+3. Results
+
+3.1. Digital Technologies Applied in Marketing
+
+To analyze the results descriptive statistics were used. Descriptive statistics were used to characterize and discuss the features of the data in the study. The study was descriptive in nature, which sought to define the current status of categorial and nominal variables. The nominal scale was used which allows only for qualitative classification. The Sustainability 2021, 13, 2512
+
+6 of 16
+
+nominal level of measurement is qualitative and has no mathematical interpretation [35–
+
+37]. Descriptive statistics are commonly used for summarizing data frequency. Relative frequency analysis was used to show the number of occurrences of each response chosen In terms of statistical techniques,
+
+by the respondents. In terms of stafr
+
+ti equency
+
+stical
+
+estimations
+
+techniques, fr
+
+and per
+
+equency centage fractions
+
+estimations and
+
+were
+
+percent-
+
+used; the significance of different measures was analyzed. Graphs and tables were used age fractions were used; the significance of different measures was analyzed. Graphs and to visualize aggregated data, as they form the analytical generalization of the study. Data tables were used to visualize aggregated data, as they form the analytical generalization derived from a descriptive research design reveal the phenomena of digital transformation of the study. Data derived from a descriptive research design reveal the phenomena of in marketing area across the population of SMEs.
+
+digital transformation in marketing area across the population of SMEs.
+
+Transformations observed in marketing in the digital age are reflected in tools used by Transformations observed in marketing in the digital age are reflected in tools used enterprises in marketing communication. The use of marketing communication tools, by enterprises in marketing communication. The use of marketing communication tools, including those that are most popular recently and online instruments, is presented including those that are most popular recently and online instruments, is presented in in Figure 1.
+
+Figure 1.
+
+Video marketing
+
+25.2%
+
+40.0%
+
+17.4%
+
+17.4%
+
+Location-based marketing
+
+18.3%
+
+40.0%
+
+20.0%
+
+21.7%
+
+Virtual Reality
+
+17.4%
+
+22.6%
+
+27.0%
+
+33.0%
+
+Internet of Things
+
+29.6%
+
+30.4%
+
+13.9%
+
+26.1%
+
+Peronalized marketing messeges
+
+47.8%
+
+25.2%
+
+9.6%
+
+17.4%
+
+Omnichanel marketing
+
+24.3%
+
+39.1%
+
+13.0%
+
+23.5%
+
+0%
+
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Often (several times a week)
+
+Moderately (several times a month)
+
+Rarely (several times a week)
+
+Not use
+
+
+
+Figure 1.
+
+Figure 1. Frequenc
+
+Fr
+
+y of us
+
+equency of
+
+ing digital tec
+
+using digital
+
+hnologies
+
+technologies in marketing in
+
+in marketing in examined enterprises
+
+examined
+
+,
+
+enterprises, % of response
+
+% of respon s.
+
+ses. Sour
+
+Source:
+
+ce: empirical
+
+empirical
+
+study conducte
+
+study
+
+d by the
+
+conducted by the Institute of
+
+Institute of Management of the
+
+Management of the Warsaw Sch
+
+Warsaw
+
+ool of
+
+School of Economics 2020,
+
+Economics 2020, n
+
+n =115.
+
+=115.
+
+The analyses have shown that in analysed enterprises most often make use of per-The analyses have shown that in analysed enterprises most often make use of personalised marketing messages (47.8% of responses). Further places are occupied by the sonalised marketing messages (47.8% of responses). Further places are occupied by the Internet of Things (29.6%) and video marketing (25.2%). One fourth of them often use Internet of Things (29.6%) and video marketing (25.2%). One fourth of them often use multi-channel marketing to communicate with their customers.
+
+multi-channel marketing to communicate with their customers.
+
+Amongst tools that are used frequently, i.e., several times a month: video marketing Amongst tools that are used frequently, i.e., several times a month: video marketing (40.0%), location-based marketing (40.0%), and multi-channel marketing (39.1%) dominate.
+
+(40.0%), location-based marketing (40.0%), and multi-channel marketing (39.1%) domi-Surveyed enterprises rarely avail themselves of virtual reality (VR)—(27.0%). This is also nate. Surveyed enterprises rarely avail themselves of virtual reality (VR)—(27.0%). This is the tool most frequently not used by the enterprises participating in the study (33% of responses). Not all are predisposed to use such sophisticated instruments as virtual reality because their products or services do not induce the use thereof.
+
+3.2. Application of Communication Tools
+
+Every day small and medium-sized enterprises face development challenges linked with the need to modernise their businesses and keep pace with changes taking place in the marketplace. Rapid scientific and technological changes, referred to as the Industrial Revolution 4.0, delineate the directions of changes and enterprise growth. Organisations which fail to understand the need to adapt to these changes risk tangible losses in revenue.
+
+Changes occur in human resources, sales, and in other areas related to development.
+
+Today’s technology and available instruments modernise each of them. When it comes to marketing (external communication), the online market grows every month, and tools used by the 21st century marketing are not supposed to boost sales sensu stricto, since it is ever more important to communicate with customers creating the sense of being always available online and always ready to communicate.
+
+Sustainability 2021, 13, 2512
+
+7 of 16
+
+Thus, capable managers are likely to be very quick to adjust to the changes caused by the digital transformation, which can explain the positive moderation effect of a sustainable strategy in the relation between managerial capability and financial performance [15]. Other research shows that when companies try to achieve financial progress with a sustainable strategy, digitizing company operations and developing the operational capability of the digital business strategy are not enough. Companies need to start the process, by digitalizing the flow of information and knowledge across companies, their supply chains, service deliveries, and marketing, that can help the companies receive and maintain a competitive advantage and achieve better performance [38].
+
+Some studies suggest that managers have to make strategic decisions about the digital transformation in companies to avoid risks resulting from incorrect identification and deployment of processes and resources, as well decisions about which sustainability values, in addition to economic values, have strategic importance [39,40].
+
+What is important in this area is proper using of the online toolkit to build the brand image, boost sales, develop customer loyalty, impact customer decisions, incentivize, and engage clients. The bigger the enterprise, the more tools it uses in its marketing activities.
+
+While the difference between small and large enterprises is significant, medium-sized companies’ performance in this area is close to the large ones. More expensive activities, such as TV commercials, product placement or sponsorship, are usually pursued by larger companies. The biggest difference is observed in the case of press ads: small companies use this form of advertising much less frequently than large ones.
+
+Examination of the frequency with which communication tools are used is relevant for the analysis of the degree of marketing digitalisation in small and medium-sized enterprises participating in this research (see Figure 2). From the analysis of the results, it can be concluded that website and e-mail communication are used the most frequently.
+
+72.2% of all respondents often use this form of communication. Social media (55.7%) and search engine activities (39.1%) are next in line. On the other hand, the following tools are used most often in the several times a month category: corporate leaflets and newsletters (37.4%); press, radio, or TV advertising (34.8%); and search engine marketing (33.0%). The enterprises included in the study use the following tools several times a year the most frequently: event marketing (29.6%) and promotional gadgets (27.0%). Telemarketing (38.3%) and outdoor billboards (34.8%) are most frequently not used by the enterprises in question.
+
+Deeper analysis of results reveals that tools such as websites and email are often used by service companies (86%). Also search engine marketing was used more frequently by representatives of the service sector (48%). Wholesale and retail traders more often opted for more intense use of leaflets and newsletters (31.6%). Other categories of communication tools were more frequently used by manufacturing companies.
+
+When examining the tools used several times a month by companies participating in the study, it is interesting to observe that the following tools are used more often by wholesale or retail businesses: press ads, radio and TV commercials (44.7%); search engine marketing (39.5%); outdoor billboards (31.6%); and telemarketing (34.2%). On the other hand, event marketing was most often selected by manufacturing companies (40.7%) together with the following tools: promotional gadgets (37%), newsletters (37%), banner ads or video marketing on the Internet (37%), and sponsoring (33.3%). Considering further differentiation of answers across industries represented by enterprises taking part in the study, one needs to note that wholesale and retail companies most often declared that they rarely use event marketing (42.1%). Notably, service companies more often decided not to use marketing communication tools.
+
+
+
+
+
+Sustainability 2021, 13, 2512
+
+8 of 16
+
+Sustainability 2021, 13, x FOR PEER REVIEW
+
+8 of 16
+
+
+
+Website and email
+
+72.2%
+
+21.7%
+
+3.5% 2.6%
+
+Leaflets, corporate newssletters
+
+27.0%
+
+37.4%
+
+23.5%
+
+12.2%
+
+Press ads, radio and TV commercials
+
+21.7%
+
+34.8%
+
+24.3%
+
+19.1%
+
+Event marketing
+
+25.2%
+
+26.1%
+
+29.6%
+
+19.1%
+
+Social media
+
+55.7%
+
+23.5%
+
+12.2% 8.7%
+
+Search engine activities
+
+39.1%
+
+33.0%
+
+19.1%
+
+8.7%
+
+Promotional gadgets
+
+24.3%
+
+32.2%
+
+27.0%
+
+16.5%
+
+Newsletters
+
+29.6%
+
+31.3%
+
+17.4%
+
+21.7%
+
+Online banner or video content
+
+27.8%
+
+31.3%
+
+20.9%
+
+20.0%
+
+Sponsoring
+
+17.4%
+
+32.2%
+
+22.6%
+
+27.8%
+
+Outdoor billboard
+
+17.4%
+
+23.5%
+
+24.3%
+
+34.8%
+
+Telemerketing
+
+21.7%
+
+25.2%
+
+14.8%
+
+38.3%
+
+Mobile marketing
+
+28.7%
+
+27.0%
+
+22.6%
+
+21.7%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Often (several times a week)
+
+Moderately (several times a month)
+
+Rarely (several times a week)
+
+Not use
+
+
+
+Figure 2.
+
+Figure 2. Frequency with which communication t
+
+Frequency with which communication ools are
+
+tools are used by
+
+used by enterprises
+
+enterprises included
+
+included in t
+
+in he stu
+
+the
+
+dy
+
+study,, %
+
+% of
+
+of answers.
+
+answers. Source:
+
+Source:
+
+empirical s
+
+empirical tudy con
+
+study ducted by th
+
+conducted e
+
+by Inst
+
+the itute of Man
+
+Institute
+
+a
+
+of gement of the Wars
+
+Management of aw Sch
+
+the W ool of
+
+arsaw Econom
+
+School ics
+
+of 2020, n =115.
+
+Economics
+
+2020, n =115.
+
+Deep
+
+The er ana
+
+scope ly
+
+of sis of resu
+
+business lts reveals t
+
+operations hat t
+
+also ools such as
+
+determines web
+
+the sites and
+
+intensity emai
+
+with l are oft
+
+which en used
+
+commu-
+
+by service
+
+nication
+
+companies
+
+tools are
+
+(8
+
+used 6%
+
+in ). Also sear
+
+marketing. ch engine ma
+
+Remarkably, rketing was u
+
+multinationalsed more fre
+
+enterprises quent
+
+more ly by
+
+often
+
+representativ
+
+than others es of the serv
+
+(several times ice sector
+
+a week)
+
+(48%).
+
+use all
+
+Wholesale a
+
+categories of nd retail tra
+
+marketing
+
+ders more often opted
+
+tools. On the other
+
+
+
+hand,
+
+for more int
+
+companies ense use
+
+active at of lea
+
+local flet
+
+or r s and n
+
+egional ewslet
+
+levels ters (
+
+mor 3
+
+e 1.6%).
+
+often Other c
+
+declar
+
+a
+
+ed tegorie
+
+that
+
+s o
+
+they f co
+
+use mmunica-
+
+individual
+
+tion tools were more
+
+communication
+
+fre
+
+tools
+
+quently u
+
+moderatelys,ed by
+
+i.e.,
+
+manu
+
+several factur
+
+times in
+
+a g compan
+
+month.
+
+ies.
+
+Local companies also more
+
+often than others declared that they do not use marketing communication tools. Looking When examining the tools used several times a month by companies participating in at the age of examined enterprises, those which have been around the longest (more than 5
+
+the study, it is interesting to observe that the following tools are used more often by years in the market) admitted that they were not using marketing communication tools wholesale or retail businesses: press ads, radio and TV commercials (44.7%); search engine more often than their younger counterparts.
+
+marketing (39.5%); outdoor billboards (31.6%); and telemarketing (34.2%). On the other hand, event marketing was most often selected by manufacturing companies (40.7%) to-3.3. The Relevance of Content Marketing
+
+gether with the following tools: promotional gadgets (37%), newsletters (37%), banner ads Content marketing consists in creating valuable content that responds to the needs or video marketing on the Internet (37%), and sponsoring (33.3%). Considering further of customers of the enterprise in question and in distributing content intended to attract differentiation of answers across industries represented by enterprises taking part in the and win the attention and engagement of clients [18]. This content may take diverse forms, study, one needs to note that wholesale and retail companies most often declared that such as, e.g., articles, films, webinars, or multimedia presentations. In content marketing they rarely use event marketing (42.1%). Notably, service companies more often decided both the form in which it is published as well as its substantive aspect are very important.
+
+not to use marketing communication tools.
+
+It is a tool designed to establish long-term and intensive emotion-based relationships with The scope of business operations also determines the intensity with which commu-a brand. Content marketing tools used the most frequently are: social media, newsletters, nication tools are used in marketing. Remarkably, multinational enterprises more often articles published on websites, photos, videos, blogs, specialist e-journals, infographics, than others (several times a week) use all categories of marketing tools. On the other hand, and mobile applications.
+
+companies active at local or regional levels more often declared that they use individual Further analysis of digital technologies used by the SMEs taking part in the study communication tools moderately, i.e., several times a month. Local companies also more examines types of content marketing deployed by these enterprises (see Figure 3).
+
+often than others declared that they do not use marketing communication tools. Looking at the age of examined enterprises, those which have been around the longest (more than 5 years in the market) admitted that they were not using marketing communication tools more often than their younger counterparts.
+
+
+
+
+
+Sustainability 2021, 13, x FOR PEER REVIEW
+
+9 of 16
+
+
+
+3.3. The Relevance of Content Marketing
+
+Content marketing consists in creating valuable content that responds to the needs of customers of the enterprise in question and in distributing content intended to attract and win the attention and engagement of clients [18]. This content may take diverse forms, such as, e.g., articles, films, webinars, or multimedia presentations. In content marketing both the form in which it is published as well as its substantive aspect are very important.
+
+It is a tool designed to establish long-term and intensive emotion-based relationships with a brand. Content marketing tools used the most frequently are: social media, newsletters, articles published on websites, photos, videos, blogs, specialist e-journals, infographics, Sustainability 2021, 13, 2512
+
+and mobile applications.
+
+9 of 16
+
+Further analysis of digital technologies used by the SMEs taking part in the study examines types of content marketing deployed by these enterprises (see Figure 3).
+
+Blogs
+
+45.2%
+
+Newsletters
+
+59.1%
+
+Social media
+
+80.0%
+
+Articles on websites
+
+83.5%
+
+Video content
+
+62.6%
+
+Sectora e-journals
+
+41.7%
+
+Mobile apps
+
+56.5%
+
+None of the above
+
+4.3%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+
+
+Figure 3.
+
+Figure 3. Type
+
+T
+
+s of
+
+ypes of content marketing in examin
+
+content marketing in
+
+ed enterprises
+
+examined
+
+,
+
+enterprises, % of
+
+% of answers. Sou
+
+answers.
+
+r
+
+Source: em
+
+ce:
+
+pirical
+
+empirical study c
+
+study onducted by
+
+conducted
+
+t
+
+by he
+
+the
+
+Institute o
+
+Institute f Ma
+
+of
+
+nagement of the
+
+Management of the Warsaw
+
+Warsaw School of
+
+School of Economics 2020,
+
+Economics 2020, n
+
+n =115.
+
+=115.
+
+The an
+
+The
+
+alysis
+
+analysis of re
+
+of r sults
+
+esults shows that
+
+shows that a vast major
+
+a vast
+
+ity o
+
+majority of fr respondent en
+
+espondent
+
+terprises
+
+enterprises
+
+u
+
+use se arti-
+
+articles
+
+cles publis
+
+published hed on web
+
+on websitessites (83
+
+(83.5%) .5%)
+
+and and soci
+
+social
+
+al media (80.0%
+
+media (80.0%).
+
+). The
+
+These
+
+se tools can b
+
+tools can be
+
+e viewed
+
+viewed
+
+
+
+today
+
+today
+
+as
+
+as v
+
+very
+
+ery conserv
+
+conservative, ative, however, no
+
+however, not all t all enterpr
+
+enterprises
+
+ises
+
+avail avail themselves of them to es-
+
+themselves of them to establish
+
+lasting relationships with their clients. Social media offer opportunities and tools that make tablish lasting relationships with their clients. Social media offer opportunities and tools it possible to offer customer services that are flexible, direct, and available 24/7 without that make it possible to offer customer services that are flexible, direct, and available 24/7
+
+any major financial investment. They also become sales platforms and significantly impact without any major financial investment. They also become sales platforms and signifi-the development of content marketing.
+
+cantly impact the development of content marketing.
+
+Video content (62.6%) and newsletters (59.1%) were further in the ranking order. On Video content (62.6%) and newsletters (59.1%) were further in the ranking order. On the other end, these are the least often used sectoral e-journals (41.7%) and blogs (45.2%).
+
+the other end, these are the least often used sectoral e-journals (41.7%) and blogs (45.2%).
+
+Interestingly, 4.3% of enterprises covered by the study declared that they do not use content Interestingly, 4.3% of enterprises covered by the study declared that they do not use con-marketing.
+
+tent marketing.
+
+Further analyses focused on the use of content marketing tools by enterprises of Further analyses focused on the use of content marketing tools by enterprises of dif-different sizes (see Figure 4).
+
+ferent sizes (see Figure 4).
+
+When analysing the results, we need to observe that the biggest differentiation was found in the intensity with which the companies used blogs and video content; attention should also be paid to the fact that almost 8% of medium-sized enterprises do not use content marketing tools.
+
+Blogging is used by 50% of medium-sized enterprises covered by the study and almost 40% of small companies. Video content is more widely used by medium-sized enterprises (67.2%) and slightly less (by 10%) by small companies.
+
+When further investigating into results of empirical studies viewed in the context of respondents’ characteristic features, one may observe that articles on websites were used the most frequently by service companies (86.0%) while mobile apps were most typical of wholesale and retail businesses (71.1%). Manufacturing companies, more often than businesses in other sectors, used video content (74.1%), blogs (59.3%), and sectoral e-journals (48.1%).
+
+Studied limited companies more often declared the use of the following content marketing tools: social media (82.5%), articles on websites (87.5%), or video content (66.3%).
+
+Sole proprietorships, more often than limited companies, did not use content marketing in their strategies (8.6%).
+
+Research showed that participating multinational enterprises active in the international market tended to use the following content marketing tools: newsletters (82.8%), video content (72.4%), mobile apps (65.5%), and blogging (62.1%). Those surveyed companies which operated in the domestic market more often availed themselves of articles on websites (90.4%), social media (84.6%), and sectoral e-journals (44.2%). Almost 9% of local or regional businesses did not use content marketing.
+
+In terms of the age of a company, we need to observe that, according to respondents, young enterprises with a history not longer than 5 years would use content marketing
+
+
+
+
+
+Sustainability 2021, 13, 2512
+
+10 of 16
+
+Sustainability 2021, 13
+
+(with
+
+, x FOR PEER REVIEWthe
+
+
+
+exception of one tool) more often. Articles on websites were used as a content 10 of 16
+
+
+
+marketing tool more often by companies older than 5 years (86.7%).
+
+Blogs
+
+39.2
+
+50.0
+
+Newsletters
+
+60.8
+
+57.8
+
+Social media
+
+80.4
+
+79.7
+
+Articles on websites
+
+84.3
+
+82.8
+
+Wideo
+
+56.9
+
+67.2
+
+Sectoral e-Journals
+
+43.1
+
+40.6
+
+Mobille apps
+
+52.9 59.4
+
+None of the above
+
+0.0
+
+7.8
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+10 – 49 people
+
+50 – 249 people
+
+
+
+Figure 4. Types of content marketing in examined enterprises by size, % of answers. Source: empirical study conducted Figure
+
+Sustainability 4. T
+
+2021ypes
+
+, 13
+
+of content marketing
+
+, x FOR PEER REVIEW
+
+in examined enterprises by size, % of answers. Source: empirical study conducted by 11 of 16
+
+
+
+by the Institute of Management of the Warsaw School of Economics 2020, n =115.
+
+the Institute of Management of the Warsaw School of Economics 2020, n =115.
+
+When analysing the results, we need to observe that the biggest differentiation was 3.4. SME Digital Technology Budget
+
+found
+
+3.4.
+
+in t
+
+SM
+
+he i
+
+E Digi nte
+
+tal nsit
+
+Tec y wit
+
+hnolo h
+
+g
+
+y which t
+
+Budget he companies used blogs and video content; attention should also be paid t
+
+Implementation o
+
+ofthe fact
+
+digital
+
+Implementation of digital tth
+
+e at almo
+
+chnologist
+
+technologies
+
+es 8%
+
+in
+
+in of mediu
+
+enterprise m
+
+enterprises,
+
+s, -size
+
+also d
+
+in
+
+also in ente
+
+the rp
+
+the m r
+
+a ises d
+
+rketin o
+
+marketing not
+
+g domu
+
+a se
+
+domain,
+
+in,
+
+content mark
+
+can be
+
+eting tools.
+
+rather costly. In fact, it is not only financial resources that are needed but also an can be rather costly. In fact, it is not only financial resources that are needed but also an ad Blogg
+
+adequate
+
+equate ing is used by 50% o
+
+body of knowledge
+
+body of knowledge a f
+
+n medium-sized
+
+and human resour
+
+d human resourenterprise
+
+ces.
+
+ces. Furt s covered by
+
+Further analyses
+
+her analyses fo the study an
+
+focus on how
+
+cus
+
+d al-
+
+much
+
+on how much
+
+most 40% o
+
+participat f
+
+participating
+
+ingsmall companies.
+
+enterprises
+
+enterprises in
+
+
+
+vestVideo c
+
+invested to
+
+ed to fi ontent is more widely use
+
+finance digital marketing
+
+nance digital marketing
+
+d by medium
+
+activities (see
+
+activities (see Fi -sized
+
+Figure 5).
+
+gu
+
+en-
+
+re 5).
+
+terprises (67.2%) and slightly less (by 10%) by small companies.
+
+When further investigating into results of empirical studies viewed in the context of respondents’ characteristic features, one may observe that articles on websites were used up to 25%
+
+60.9
+
+the most frequently by service companies (86.0%) while mobile apps were most typical of wholesale and retail businesses (71.1%). Manufacturing companies, more often than busi-26%–50%
+
+nesses in other sectors, used video cont
+
+30.4 ent (74.1%), blogs (59.3%), and sectoral e-journals
+
+(48.1%).
+
+51%–75%
+
+Studied limit
+
+6.1
+
+ed companies more often declared the use of the following content marketing tools: social media (82.5%), articles on websites (87.5%), or video content (66.3%).
+
+76%–100%
+
+Sole propr
+
+2.6
+
+ietorships, more often than limited companies, did not use content marketing in their strategies (8.6%).
+
+0
+
+Rese
+
+1 arch
+
+0
+
+show
+
+2 ed t
+
+0
+
+hat par
+
+30 ticipating m
+
+40
+
+ultination
+
+50 al enterprises
+
+60
+
+active
+
+70 in the interna-
+
+tional market tended to use the following content marketing tools: newsletters (82
+
+
+
+.8%),
+
+Figure 5. Total digital ma
+
+Figure 5. Total digital
+
+video cont
+
+rketing ex
+
+marketing
+
+ent (7
+
+penditur
+
+expenditure2.4%)
+
+e in
+
+in
+
+, mobile
+
+enterprises i
+
+enterprises apps (
+
+nclud 6
+
+ed
+
+included 5.5
+
+in
+
+in %),
+
+the
+
+the an
+
+stu d blog
+
+dy, %
+
+study, %
+
+ging
+
+of ans
+
+of
+
+(62.1%).
+
+wers. Sour
+
+answers. Sour Those surve
+
+ce: empirical
+
+ce: empirical yed com-
+
+study
+
+study
+
+conducted by the Institute
+
+conducted by the Institute panie
+
+of
+
+of
+
+s which operated
+
+Management of the W in t
+
+arsawh
+
+Management of the Warsaw e domestic
+
+School of
+
+School of
+
+market
+
+Econom
+
+Economics mo
+
+2020,re
+
+ics 2020, n
+
+n oft
+
+=1 en av
+
+15.
+
+=115.
+
+ailed themselves of articles
+
+on websites (90.4%), social media (84.6%), and sectoral e-journals (44.2%). Almost 9% of local or reg
+
+Nota i
+
+blo
+
+Notablyn
+
+y,
+
+, al businesse
+
+the clear
+
+the clear
+
+s
+
+ma did not use
+
+jority, al
+
+majority, almost content mark
+
+most 61% of
+
+61% of the
+
+eting.
+
+the examined enterprises, declared that
+
+examined enterprises, declared that they
+
+In terms of th
+
+they allocated up
+
+allocated up to
+
+e age
+
+to 25
+
+25% of of
+
+% a co
+
+of
+
+the
+
+mpany, we n
+
+the total ma
+
+total marketing eed to observ
+
+rketing bu
+
+budget to
+
+e that, acc
+
+dget to fina
+
+finance
+
+ord
+
+digital ing to respon
+
+nce digital tools.
+
+tools. A
+
+dents,
+
+A further
+
+further 30%
+
+young enterp
+
+30%
+
+of of enter rise
+
+p
+
+enterprises
+
+s with a
+
+rises allocat
+
+allocated
+
+history not lo
+
+ed between
+
+between 26%
+
+nger
+
+26%
+
+and
+
+than
+
+and
+
+50% of 5 y
+
+50%
+
+the ears wo
+
+of the muld use content marketin
+
+arket
+
+marketing
+
+ing b
+
+budget udget to
+
+to pay
+
+pay
+
+for
+
+g
+
+for
+
+digital
+
+(with the
+
+digi
+
+exce
+
+tal technoption of one tool) more o
+
+logies. Less than 3% of
+
+ften. Artic
+
+responden les
+
+ts cl on websites
+
+aimed they awere used
+
+llocate all as
+
+of a content
+
+their mar-
+
+marketing tool more often by comp
+
+keting budget (100%) to finance di a
+
+gi nie
+
+tal s older tha
+
+tools.
+
+n 5 years (86.7%).
+
+An in-depth analysis was carried out to identify the amounts spent on digital marketing by surveyed enterprises of different size (see Figure 6).
+
+up to 25%
+
+62.7
+
+59.4
+
+26%–50%
+
+27.5 32.8
+
+51%–75%
+
+7.8
+
+4.7
+
+76%–100%
+
+2.0
+
+3.1
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+10 – 49 people
+
+50 – 249 people
+
+
+
+Figure 6. Digital marketing expenditure in enterprises included in the study by enterprise size, % of answers. Source: empirical study of the Institute of Management of the Warsaw School of Economics 2020, n =115.
+
+Medium-sized enterprises taking part in the study more often declared an expenditure representing 25–50% (32.8% of responses) and 76–100% (3.1% of responses). On the other hand, small enterprises more often allocate up to 25% of their marketing budget and between 51% to 75% (7.8% of responses) of the marketing budget on digital tools.
+
+Looking from the sectoral point of view, one may observe that analysed service companies more often decided to invest up to 25% of marketing expenditure in digitalisation (70%). Manufacturing companies more often declared their level of expenditure to be between 26% to 50% (37.0% of responses). Wholesalers and retailers taking part in the study
+
+
+
+
+
+Sustainability 2021, 13, x FOR PEER REVIEW
+
+11 of 16
+
+
+
+3.4. SME Digital Technology Budget
+
+Implementation of digital technologies in enterprises, also in the marketing domain, can be rather costly. In fact, it is not only financial resources that are needed but also an adequate body of knowledge and human resources. Further analyses focus on how much participating enterprises invested to finance digital marketing activities (see Figure 5).
+
+up to 25%
+
+60.9
+
+26%–50%
+
+30.4
+
+51%–75%
+
+6.1
+
+76%–100%
+
+2.6
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+
+
+Figure 5. Total digital marketing expenditure in enterprises included in the study, % of answers. Source: empirical study conducted by the Institute of Management of the Warsaw School of Economics 2020, n =115.
+
+Sustainability 2021, 13, 2512
+
+11 of 16
+
+Notably, the clear majority, almost 61% of the examined enterprises, declared that they allocated up to 25% of the total marketing budget to finance digital tools. A further 30% of enterprises allocated between 26% and 50% of the marketing budget to pay for technologies. Less than 3% of respondents claimed they allocate all of their marketing digital technologies. Less than 3% of respondents claimed they allocate all of their mar-budget (100%) to finance digital tools.
+
+keting budget (100%) to finance digital tools.
+
+An in-depth analysis was carried out to identify the amounts spent on digital market-An in-depth analysis was carried out to identify the amounts spent on digital mar-ing by surveyed enterprises of different size (see Figure 6).
+
+keting by surveyed enterprises of different size (see Figure 6).
+
+up to 25%
+
+62.7
+
+59.4
+
+26%–50%
+
+27.5 32.8
+
+51%–75%
+
+7.8
+
+4.7
+
+76%–100%
+
+2.0
+
+3.1
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+10 – 49 people
+
+50 – 249 people
+
+
+
+Figure 6. Digital marketing expenditure in enterprises included in the study by enterprise size, % of answers. Source: em-Figure 6. Digital marketing expenditure in enterprises included in the study by enterprise size, % of answers. Source: pirical study of the Institute of Management of the Warsaw School of Economics 2020, n =115.
+
+empirical study of the Institute of Management of the Warsaw School of Economics 2020, n =115.
+
+Medium-sized enterprises taking part in the study more often declared an expendi-Medium-sized enterprises taking part in the study more often declared an expenditure ture representing 25–50% (32.8% of responses) and 76–100% (3.1% of responses). On the representing 25–50% (32.8% of responses) and 76–100% (3.1% of responses). On the other other hand, small enterprises more often allocate up to 25% of their marketing budget and hand, small enterprises more often allocate up to 25% of their marketing budget and between 51% to 75% (7.8% of responses) of the marketing budget on digital tools.
+
+between 51% to 75% (7.8% of responses) of the marketing budget on digital tools.
+
+Looking from the sectoral point of view, one may observe that analysed service com-Looking from the sectoral point of view, one may observe that analysed service companies more often decided to invest up to 25% of marketing expenditure in digitalisation panies more often decided to invest up to 25% of marketing expenditure in digitalisation (70%).
+
+(70%). Manufacturing com
+
+Manufacturing
+
+panies more
+
+companies
+
+
+
+moroft
+
+e en dec
+
+often lared t
+
+declar h
+
+ed eir leve
+
+their
+
+l of expend
+
+level of
+
+iture to
+
+expenditur be be
+
+e to
+
+-
+
+be
+
+tween 26% t
+
+between
+
+o
+
+26%50%
+
+to (37.
+
+50% 0% of resp
+
+(37.0% of onses
+
+r
+
+). Wholes
+
+esponses).
+
+alers and retailers t
+
+Wholesalers and r
+
+aking part in the stud
+
+etailers taking part in
+
+y
+
+the
+
+study invest between 51% and 75% of their marketing budgets in digital tools (10.5% of responses).
+
+Considering the scope of business operations, local or regional companies covered by the study most frequently allocate up to 25% of their marketing expenditure to finance digital tools. Companies active in the domestic market more often declared expenses ranging between 26% and 50% (34.6%), while enterprises active in international markets more frequently allocate between 76% and 100% of their marketing budget to finance digital tools (6.9%).
+
+Participating young companies present in the market for less than 5 years more often claimed that up to 25% of their marketing expenditure is spent on digital tools (65.6%). The same companies more often declared investing 51%–75% of their marketing budget in digital solutions (9.4% of responses). Companies whose presence in the market exceeds 5 years more often declared expenses representing between 26% and 50% (32.5%
+
+of responses) and between 76% and 100% (3.6%) of marketing expenditure on digital marketing tools.
+
+4. Discussion
+
+Industry 4.0 is not just an approach to technology and manufacturing of products but also a new approach to sales management. Enterprise 4.0 has changed the pattern of communication and provision of information about a product to the customer. In practice it is about the transition from a collaboration model, B2B or B2C to H2H (human-to-human), based on personalized messages targeting customers and business partners.
+
+Using available tools, such as, e.g., social media, the seller shortens the distance between a company and a customer or between a company and its business partners. The ICT and a shortened distance help Organisation 4.0 collect an extensive body of information and
+
+Sustainability 2021, 13, 2512
+
+12 of 16
+
+provide the client with a product meeting his preferences and expectations. Therefore, nowadays companies attract customers with the possibility to pick and choose product components. Obviously, being realistic, such an option cannot be available for each product category. Some products are complete and come as one piece. The more quickly a company can adapt to personalization, the more quickly its revenue will grow. Such changes and adaptations are much easier for SMEs than to large corporations which, in case of any change, need to work out a project and launch a process of change management.
+
+Digital marketing opens up new business opportunities. In the age of ultra-fast advancements in ICT the relationships between an enterprise and the market develop along new lines. IT technologies and digital tools impact marketing and facilitate building relationships with customers [7] and the value of each organisation. An immediate relevant response to customer behaviour and preferences, and the ability to exploit the synergy data and their analyses will be crucial.
+
+Research shows that managerial recognition of the digital transformation of the company is the key to attain an increased financial performance through the facilitation of a sustainability strategy [15].
+
+To transform a marketing system, a new approach to the organisation of marketing activities is needed. A new marketing system has a customer at its heart. After the elements of the system and relationships among them have been carefully planned, interactions with products can be stimulated and clients can experience emotions and add on new value.
+
+The latest trends in marketing include content marketing, video content, search engine activities (SEO iSEM), mobile, big data, and personalization (better targeting) of marketing messages [41] (p. 14). Hence, the key skills desired at the Marketing Department in any SME are being able to identify new trends and technologies, good communication skills, and being creative.
+
+Enterprises from the SME sector which were analysed in the study engage in digital marketing mainly through frequent (several times a week) application of marketing tools, such as a website, email, and social media. There are other tools that they use several times a month, e.g., leaflets and newsletters, press ads, radio and TV commercials, and search engine activities. Event marketing is used much more rarely in digitalisation processes while sponsoring, outdoor billboards, and telemarketing are not used at all.
+
+Content marketing and tools used to create and communicate marketing content to customers are important for the digitalisation of enterprises. Tools used the most frequently to convey the content are articles on websites, social media, and video content. It is worth stressing that over 91% of the surveyed companies spend up to 50% of their total marketing budget on digital activities.
+
+The factors that impact the use of digital technologies in the area of marketing are, to a large extent, dictated by the industry structure of Polish SMEs. Most of them are micro and small enterprises operating in the service and trade sectors while manufacturing enterprises are less numerous but usually much bigger. Their poor economic potential makes them focus on current activities rather than on making investment decisions. In the vast majority of SMEs, decisions are made by the owner and are based on intuition rather than on careful analysis of data. This explains why the SMEs are not interested in putting in place ICT-based systems that would support the decision-making process. The age structure of owners of the Polish SMEs is another important reason why the digitalisation of these companies is low. Most owners are middle-aged or older. At the time when they started their respective businesses no IT support was available so, in most cases, they do not see the cost effectiveness of using ICT. In addition, the relatively low level of SME
+
+internationalisation does not force them to keep up with changes taking place at their more digitally advanced competitors. A higher degree of internationalisation of Polish SMEs would prompt their digitalisation.
+
+The use of social media is also important, as it influences consumer behaviour. Organisations use social media for marketing purposes, to communicate with customers and change the way they operate, allowing for innovative creation of relations between the
+
+
+
+
+
+Sustainability 2021, 13, 2512
+
+13 of 16
+
+organisation and the customer. Recommendation systems (e-word of mouth) based on data originating from consumers play an important role [42]. Nowadays it is important not only to be present in social media but also to use proper platforms. As shown in the diagram below, consumer preferences change dynamically also in relation to social media platforms.
+
+Social media are an excellent tool to communicate with customers, however, to successfully accomplish marketing goals and reach the right target audiences, enterprises must actively follow consumer behaviour and preferences at each level.
+
+5. Conclusions
+
+Digital technology has changed the way business operates forever by abolishing any barriers between customers and their needs. Today, almost all organisations are aware of the need to transform their previous practices. If they maintain the status quo they risk being pushed out of the market by more advanced competitors. Although most enterprises feel the urgency of change, they are petrified by the prospect of transformation. To successfully digitalise an organisation, it is vital to understand the aspects of the process and decide when the transformation should start.
+
+In a dynamically changing environment, consumers should be provided with services quickly and smoothly. They expect user-friendly payment solutions and transparent rules underpinning their relations with the brand or organisation. Enterprises wishing to be successful in a digital future must continuously monitor the environment and adapt their strategies to newly emerging trends within the shortest time possible to meet customer needs.
+
+Technological changes occur very quickly exerting a significant impact on the economy and society, thus it is hard to predict the future of marketing in the digital age. One may only anticipate trends and deploy new technologies to implement changes in the organisation.
+
+The present times are described as the ‘golden age’ of marketing. Digital transformation and the plethora of tools that enable widely sketched and in-depth analysis of data open up new optimisation opportunities to companies that were still unattainable two decades ago. Marketing in a way becomes an analytical department, always maintaining a place for empathy to customers.
+
+Nowadays, technology has become an inherent part of marketing and organisations cannot decide any longer ‘whether’ they should follow changes in the market, but they need to think ‘how’ they should change to be able to compete in the market and meet consumer requirements.
+
+Under the new concept of marketing 4.0, enterprises feel obliged to develop collaboration platforms. They are necessary to ensure interaction between a traditional seller and purchaser. This is the only way in which a consumer in his new role as a prosumer will be able to interact with a company. Importantly, using such platforms should be simple and easy for prosumers. It needs to be stressed that the heart of the new marketing concept 4.0 does not lie in rejecting the previous principles of marketing and effects of researchers’
+
+studies. It highlights changes occurring in the role played by a consumer, relationships as well as feedback between diverse market actors. Most importantly, the traditional division into manufacturers and consumers gets blurred. With prosumers becoming increasingly more relevant in the market, manufacturers are forced to give up some of their competences in favour of final users so that they could co-create the value of a product and/or service.
+
+Personalization of content targeting individual consumers is an important trend.
+
+Customers are reached through databases and the content is transmitted directly to a consumer and adapted to her/his individual needs. Contemporary consumers expect marketing messages to directly meet their needs.
+
+Customers create networks of influence and can dynamically respond to a brand message and communicate with it. The role of a customer evolves from being a stakeholder of an enterprise to becoming a partner or an advocate of an organisation or brand. New technologies help a customer co-create a product at the development stage and later, by
+
+Sustainability 2021, 13, 2512
+
+14 of 16
+
+expressing opinions about the product or making recommendations at the stage when the product is used. Thus, a consumer may improve a product but also influence brand reputation and co-create it.
+
+Even though Polish enterprises have achieved a certain degree of digital maturity, there are key (intervention) areas on which they should focus to be able to fully tap into digital transformation. Customers are the critical intervention area. Today, they expect a series of concrete marketing activities reaching them through social media and mobile apps communication, however, enterprises must be aware that more traditional clients would like to stick to traditional communication channels. When it comes to products and services delivered by an enterprise, digital consumers prefer offers that are tailored to measure or personalised. Organisations which are highly mature in the field of digital technologies follow smart personalisation as their core strategy. Clients also expect that they can communicate with the enterprise 24/7 and in real time. Using the Internet and social media to browse for information or as a source of entertainment shows that customers positively assess any personal emotional experience available to them in relation with the brand concerned. The more advanced the communication among clients, the bigger the impact of segments that so far have often been ignored.
+
+Despite the relevance of online marketing, it has not replaced traditional marketing.
+
+Enterprises must understand that both types should coexist to ensure the best experiences to clients. In the world of advanced technologies and no direct contact between human beings, personalised approach to customers becomes a distinctive feature and gives comparative advantage. Immediate response relevant to customer behaviour and preferences and the ability to combine data and the analyses thereof will be crucial. Some experts believe that organizations and consumers are already in the post-digital stage based on the fact that one cannot distinguish between traditional and digital marketing [43] (p. 168). Today, each aspect of marketing activities consists in using digital tools and IT technologies [20].
+
+Digital marketing means new business opportunities. In the era of the ultra-fast advances in information and communication technologies, company’s relations with the market are changing. Information technologies and digital tools affect marketing, enabling to build relationships with clients and build value for each organization. An important role will be played by the immediate response to customer behavior and preferences and the ability to combine and analyze data in synergy [5].
+
+In conclusion, enterprises use digital technologies most frequently to personalize marketing messages. They deploy digitalisation with medium frequency in video marketing, location-based marketing, and multi-channel marketing. On the other hand, the Internet of Things (IoT) is the tool that is not used the most frequently because it is rather complicated and not always feasible.
+
+In summary, SMEs should get support at financial, substantive, and technical levels in their efforts undertaken to implement product and process innovation which will favour internationalisation and, by the same token, digitalisation [44,45].
+
+Funding: The publication financed by a subsidy for the SGH Warsaw School of Economics for the maintenance and development of research potential.
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Not applicable.
+
+Conflicts of Interest: The author declares no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.
+
+Sustainability 2021, 13, 2512
+
+15 of 16
+
+References
+
+1.
+
+Duffett, R.; Petros,anu, D.-M.; Negricea, I.-C.; Edu, T. Effect of YouTube Marketing Communication on Converting Brand Liking into Preference among Millennials Regarding Brands in General and Sustainable Offers in Particular. Evidence from South Africa and Romania. Sustainability 2019, 11, 604. [CrossRef]
+
+2.
+
+Lučić, A. Measuring Sustainable Marketing Orientation—Scale Development Process. Sustainability 2020, 12, 1734. [CrossRef]
+
+3.
+
+Borin, N.; Metcalf, L. Integrating Sustainability into the Marketing Curriculum: Learning Activities That Facilitate Sustainable Marketing Practices. J. Mark. Educ. 2010, 32, 140–154. [CrossRef]
+
+4.
+
+Chaffey, D.; Ellis-Chadwick, F. Digital Marketing, Strategy, Implementation and Practice; Pearson: Harlow, UK, 2016.
+
+5.
+
+Shpak, N.; Kuzmin, O.; Dvulit, Z.; Onysenko, T.; Sroka, W. Digitalization of the Marketing Activities of Enterprises: Case Study.
+
+Information 2020, 11, 109. [CrossRef]
+
+6.
+
+Mazurek, G. Transformacja Cyfrowa; PWN: Warsaw, Poland, 2019.
+
+7.
+
+Zhang, A.; Saleme, P.; Pang, B.; Durl, J.; Xu, Z. A Systematic Review of Experimental Studies Investigating the Effect of Cause-Related Marketing on Consumer Purchase Intention. Sustainability 2020, 12, 9609. [CrossRef]
+
+8.
+
+Ziółkowska, M.J. Co-Creation of Value in Sustainable Marketing in SMEs. In Entrepreneurship, Economic Development and Public Policy—In Search of Synergies; Parker, E., Ed.; SGH Warsaw School of Economics: Warsaw, Poland, 2019; pp. 181–191.
+
+9.
+
+El Hilali, W.; El Manouar, A.; Janati Idrissi, M.A. Reaching sustainability during a digital transformation: A PLS approach. Int. J.
+
+Innov. Sci. 2020, 12, 52–79. [CrossRef]
+
+10.
+
+Dumitriu, D.; Militaru, G.; Deselnicu, D.C.; Niculescu, A.; Popescu, M.A.-M. A Perspective over Modern SMEs: Managing Brand Equity, Growth and Sustainability Through Digital Marketing Tools and Techniques. Sustainability 2019, 11, 2111. [CrossRef]
+
+11.
+
+Gil-Gomez, H.; Guerola-Navarro, V.; Oltra-Badenes, R.; Lozano-Quilis, J.A. Customer relationship management: Digital transformation and sustainable business model innovation. Econ. Res. Ekon. Istraživanja 2020, 33, 2733–2750. [CrossRef]
+
+12.
+
+Priyono, A.; Moin, A.; Putri, V.N.A.O. Identifying Digital Transformation Paths in the Business Model of SMEs during the COVID-19 Pandemic. J. Open Innov. Technol. Mark. Complex. 2020, 6, 104. [CrossRef]
+
+13.
+
+Helfat, C.E.; Martin, J.A. Dynamic Managerial Capabilities: Review and Assessment of Managerial Impact on Strategic Change.
+
+J. Manag. 2014, 41, 1281–1312. [CrossRef]
+
+14.
+
+Li, L.; Su, F.; Zhang, W.; Mao, J.-Y. Digital transformation by SME entrepreneurs: A capability perspective. Inf. Syst. J. 2018, 28, 1129–1157. [CrossRef]
+
+15.
+
+Ukko, J.; Nasiri, M.; Saunila, M.; Rantala, T. Sustainability strategy as a moderator in the relationship between digital business strategy and financial performance. J. Clean. Prod. 2019, 236, 117626. [CrossRef]
+
+16.
+
+Bounfour, A. Digital Futures, Digital Transformation: From Lean Production to Acceluction; Springer International Publishing: Cham, Switzerland, 2016. [CrossRef]
+
+17.
+
+Obi, J.; Ibidunni, A.S.; Tolulope, A.; Olokundun, M.A.; Amaihian, A.B.; Borishade, T.T.; Fred, P. Contribution of small and medium enterprises to economic development: Evidence from a transiting economy. Data Brief 2018, 18, 835–839. [CrossRef] [PubMed]
+
+18.
+
+Marolt, M.; Zimmermann, H.-D.; Pucihar, A. Enhancing Marketing Performance through Enterprise-Initiated Customer Engagement. Sustainability 2020, 12, 3931. [CrossRef]
+
+19.
+
+Sousa, V.D.; Driessnack, M.; Mendes, I.A.C. An overview of research designs relevant to nursing: Part 1: Quantitative research designs. Rev. Lat. Am. Enferm. 2007, 15, 502–507. [CrossRef] [PubMed]
+
+20.
+
+Maciorowski, A. Trendy w Digital Marketingu. Internetowe Makrorewolucje i Mikrorewolucje. In Marketing w Erze Technologii Cyfrowych. Nowoczesne Koncepcje i Wyzwania; Gregor, B., Kaczorowska-Spychalska, D., Eds.; PWN: Warsaw, Poland, 2018.
+
+21.
+
+Blili, S.; Raymond, L. Information technology: Threats and opportunities for small and medium-sized enterprises. Int. J.
+
+Inf. Manag. 1993, 13, 439–448. [CrossRef]
+
+22.
+
+Stankovska, I.; Josimovski, S.; Edwards, C. Digital channels diminish SME barriers: The case of the UK. Econ. Res. Ekon.
+
+Istraživanja 2015, 29, 217–232. [CrossRef]
+
+23.
+
+Dominak, P. Sektor MSP We Wsp ółczesnej Gospodarce; PWN: Warsaw, Poland, 2005.
+
+24.
+
+Neagu, C. The Importance and Role of Small and Medium-Sized Businesses. Theor. Appl. Econ. 2016, 23, 331–338.
+
+25.
+
+Elkhalek, D.A. SMEs’ Contribution to Sustainable Development; an Applied Study Focusing on OECD Countries. IOSR J. Econ.
+
+Financ. 2019, 10, 69–78. [CrossRef]
+
+26.
+
+Adamczewski, P. Z bada ń nad stanem informatyzacji polskiego sektora MSP w warunkach transformacji cyfrowej. Zesz. Nauk.
+
+Uniw. Szczeci ńskiego. Stud. Inform. 2016, 42, 5–14. [CrossRef]
+
+27.
+
+Arendt, L. Barriers to ICT adoption in SMEs: How to bridge the digital divide? J. Syst. Inf. Technol. 2008, 10, 93–108. [CrossRef]
+
+28.
+
+Kapurubandara, M.; Lawson, R. Barriers to Adopting ICT and E-Commerce with SMEs in Developing Countries. In Proceedings of the 2006 Collector Conference on Electronic Commerce, Adelaide, Australia, 9 December 2006; Collector Group; pp. 5–7.
+
+29.
+
+Levy, M.; Powell, P. SME Internet Adoption: Towards a Transporter Model. In Proceedings of the 15th Bled Electronic Commerce Conference EReali-ty: Constructing the eEconomy, Bled, Slovenia, 17–19 June 2002; pp. 507–521.
+
+30.
+
+Mehrtens, J.; Cragg, P.B.; Mills, A.M. A Model of Internet Adoption by SMEs. Inf. Manag. 2001, 39, 165–176. [CrossRef]
+
+31.
+
+Digital Economy and Society Index (DESI) 2019 Country Report Poland. 2019. Available online: https://ec.europa.eu/digital-
+
+single-market/en/scoreboard/poland (accessed on 1 December 2020).
+
+32.
+
+Starczewska-Krzysztoszek, M. Jak Budować Zdolność Firmy do Konkurowania? Firmy Cyfrowe vs. Firmy Analogowe. Cyfryzacja Polskiego Sektora MM ŚP; Home.pl: Warsaw, Poland, 2016; pp. 8–27.
+
+Sustainability 2021, 13, 2512
+
+16 of 16
+
+33.
+
+Chomuszko, M. Informacja Zarz ądcza w M ŚP—Niewykorzystany Potencjał; Harvard Business Review: Cambridge, MA, USA, 2018; pp. 78–81.
+
+34.
+
+Czy Marketerzy Nad ą żaj ą Za Zmianami? Raport: Nowa Rola Marketingu—Marketer+ Przewodnik Po Marketingu. Available online: www.marketerplus.pl (accessed on 14 December 2020).
+
+35.
+
+Perreault, J.W.D.; Leigh, L.E. Reliability of Nominal Data Based on Qualitative Judgments. J. Mark. Res. 1989, 26, 135–148.
+
+[CrossRef]
+
+36.
+
+Williams, A. How to . . . Write and analyse a questionnaire. J. Orthod. 2003, 30, 245–252. [CrossRef]
+
+37.
+
+Norman, G.R.; Streiner, D.L. (Eds.) PDQ Statistics, 3rd ed.; B.C. Decker: Shelton, CT, USA, 2002.
+
+38.
+
+Liu, H.; Ke, W.; Wei, K.K.; Hua, Z. The Impact of IT Capabilities on Firm Performance: The Mediating Roles of Absorptive Capacity and Supply Chain Agility. SSRN Electron. J. 2014, 54, 1452–1462. [CrossRef]
+
+39.
+
+Fadhilah, A.N.; Subriadi, A.P. The Role of IT on Firm Performance. Procedia Comput. Sci. 2019, 161, 258–265. [CrossRef]
+
+40.
+
+Rauter, R.; Jonker, J.; Baumgartner, R.J. Going one’s own way: Drivers in developing business models for sustainability.
+
+J. Clean. Prod. 2017, 140, 144–154. [CrossRef]
+
+41.
+
+Stępowski, R. Komunikacja Marketingowa 2030, Technologiczna Rewolucja i Mentalna Ewolucja; Wydawnictwo Słowa i Myśli: Lublin, Poland, 2016; p. 14.
+
+42.
+
+Taylor, C.R. The new era of electronic word of mouth (eWOM): ‘Be More Chill’ overrules the critics. Int. J. Advert. 2018, 37, 849–851.
+
+[CrossRef]
+
+43.
+
+Lamberton, C.P.; Stephen, A.T. A Thematic Exploration of Digital, Social Media, and Mobile Marketing: Research Evolution from 2000 to 2015 and an Agenda for Future Inquiry. J. Mark. 2016, 80, 146–172. [CrossRef]
+
+44.
+
+Almerida Freire, P. Opinion of the European Economic and Social Committee on ‘The Digital Single Market—Trends and Op-Portunities for SMEs; 2020/C 429/01; The European Economic and Social Committee: Brussels, Belgium, 2020.
+
+45.
+
+Ulas, D. Digital Transformation Process and SMEs. Procedia Comput. Sci. 2019, 158, 662–671. [CrossRef]
+
+
+
+
+
+Document Outline
+
+
+Introduction
+
+Materials and Methods
+
+Results Digital Technologies Applied in Marketing
+
+Application of Communication Tools
+
+The Relevance of Content Marketing
+
+SME Digital Technology Budget
+
+
+
+
+
+Discussion
+
+Conclusions
+
+References
+
+
+
+
+

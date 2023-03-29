@@ -1,0 +1,1176 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/350736150
+
+Key Success Factors (KSFs) Underlying the Adoption of Social Media Marketing
+
+Technology
+
+Article in SAGE Open · April 2021
+
+DOI: 10.1177/21582440211006695
+
+CITATIONS
+
+READS
+
+14
+
+493
+
+3 authors:
+
+Sunday C. Eze
+
+Vera Chinwedu Chinedu-Eze
+
+Bowen University
+
+Michael Okpara University of Agriculture, Umudike
+
+64 PUBLICATIONS 939 CITATIONS
+
+22 PUBLICATIONS 418 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Hart O. Awa
+
+University of Port Harcourt
+
+50 PUBLICATIONS 1,523 CITATIONS
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects: Article View project
+
+E-learning in higher education View project
+
+All content following this page was uploaded by Sunday C. Eze on 08 April 2021.
+
+The user has requested enhancement of the downloaded file.
+
+
+
+
+
+1006695SGOXXX10.1177/21582440211006695SAGE OpenEze et al.
+
+research-article 20212021
+
+Original Research
+
+SAGE Open
+
+April-June 2021: 1 –15
+
+Key Success Factors (KSFs) Underlying
+
+© The Author(s) 2021
+
+https://doi.org/10.1177/21582440211006695
+
+DOI: 10.1177/21582440211006695
+
+journals.sagepub.com/home/sgo
+
+the Adoption of Social Media Marketing
+
+
+
+
+
+Technology
+
+
+Sunday C. Eze1 , Vera C. A. Chinedu-Eze2, and
+
+Hart O. Awa3
+
+
+
+
+
+Abstract
+
+
+In developing world, most decisions by Micro, Small, and Medium Enterprises (MSMEs) to adopt social media marketing technology (SMMT) rely heavily on study findings from the Western World without much recourse to cross-context differences in structure and managerial capabilities. Thus, the lack of inquiries that provide complete guideline on the adoption of SMMT in developing economies hinders the development of integrated framework(s) that explains MSMEs’ successful adoption. The study used technology–organization–environment (T-O-E) framework as the theoretical basis to examine the critical factors that stimulate MSMEs adoption of SMMT in Nigeria. The adopted methodological choice was qualitative, involving interviews with 20 participants selected from the online directories via purposive and snowball sampling techniques.
+
+However, thematic analysis was the data treatment technique; and the study extended the T-O-E framework to provide an understanding into the dominant factors that specifically influence MSMEs’ adoption, without losing sight of vendors who would rely on the extended framework to get audiences continually satisfied.
+
+
+
+
+
+Keywords
+
+
+SMEs, KSFs, adoption, social media, marketing, technology Introduction
+
+call for nascent digital frameworks and marketing strategy that “lock-in” customers into the standards to increase trust, Nigeria has about 41.5 million Micro, Small, and Medium interactivity, advocacy, and switching costs.
+
+Enterprises (MSMEs) in the country (National Bureau of The implementation of social media marketing in market-Statistics [NBS], 2017); in addition to employing about 50%
+
+ing mix program enables firms to promote and advertise their of the working population, they contribute about 50% of the goods and services via web-based facilities; permits real-country’s industrial outputs (Ihua, 2009). The breakdown of time and ubiquitous interaction between advertisers and MSMEs in Nigeria shows that micro-enterprises constitute audiences; encourages customer satisfaction and retention; 99.8%; SMEs make 0.17%; and medium comprises 1,793
+
+and build, sustain, and/or improve competitive advantage businesses (NBS, 2019). Similarly, more than 90% of enter-
+
+(Eze et al., 2019; Gandomi & Haider, 2015; Jones et al., prises in developing countries are MSMEs (Awa, Ukoha, & 2014; Madukua et al., 2016; Shankar et al., 2010).
+
+Igwe, 2017; Jones et al., 2014; Rahayu & Day, 2017), Furthermore, scholars (Doshmanli et al., 2018; Eagleman, whereas same enterprises in the Western World contribute 2013; Okundaye et al., 2019; Smutkupt et al., 2010) posit nearly 90% employment of active workforce (Tob-Ogu et al., that organizations with social media culture exceptionally 2018). The internet penetration estimate stands at 78.3% in extend to clients, create awareness, and increase sales much developed countries and 32.4% in the developing countries more than what the traditional marketing can do. However, like Nigeria (Okundaye et al., 2019; Zafar & Mustafa, 2017), suggesting that the widened gap as well as the need to 1
+
+urgently drive the economy call for regular and timely Landmark University, Omu-Aran, Nigeria
+
+2Michael Okpara University of Agriculture, Umudike, Nigeria scholarly inquiries to know the underlying adoption 3University of Port Harcourt, Nigeria enablers and inhibitors. Scholars (Madukua et al., 2016; Shapiro & Varian, 1999; Smutkupt et al., 2010; Zanjani et Corresponding Author:
+
+Sunday C. Eze, Department of Business Studies, Landmark University, al., 2013) recommend that the swift socioeconomic poten-Omu-Aran KM 1001, Nigeria.
+
+tials of MSMEs and the volatile nature of the environment
+
+Email: Sundayeze2010@gmail.com
+
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+2
+
+SAGE Open
+
+in spite of the enormous potentials of social media marketing environments, structures, and managerial and technology and digital devices in providing a level-playing grounds for capabilities. Such is quite scholarly as it provides myriad all categories of firms, as well as in assisting MSME to speed of critical and insightful factors that underlie the adoption up their socioeconomic developments; scholars (Awa, 2018; of SMMT, but a more resounding theoretical contribution Awa, Ukoha, & Igwe, 2017; Costello et al., 2007) posit that than just cross-context inquiries is supposedly built when the critical mass of MSMEs in developing economies, espe-the factors are factored within the T-O-E framework. This cially Nigeria, obviously face adoption limitations. Tobora study complements extant studies on adoption of SMMT
+
+(2014) posits that most micro-businesses are skeptical to via building a home-based roadmap that integrates core adopt because of perceived inconveniences surrounding the adoption factors within the T-O-E framework. The core adoption, use, and management. Studies (Gbandi & Amissah, interest is on unveiling the Key Success Factors (KSFs) 2014; Yunis et al., 2017) outlined some of the adoption limi-associated within T-O-E that shape the adoption of SMMT.
+
+tations as lack of indigenous frameworks that may guide suc-The criticality of such interest rests on MSMEs in Nigeria cessful adoption, safety and security issues, uncertainty of having limited knowledge of emerging devices even under use, issues of corporate culture and business mind-set, tech-COVID-19 pandemic; and as such, any attempts to under-nical know-how, inadequate internet facilities, and limited stand the efficacy of KSFs and how the devices can be finances (Napitupulu et al., 2018; Vlados & Chatzinikolaou, fully and maximally utilized improve usage and cause
+
+2019).
+
+more proactive and strategic decisions (Awa, Ukoha, & However, adoption is made almost mandatory, given that Orokor, 2017). This article reviews and analyzes extant COVID-19 global pandemic and its stringent measures to literature and proposes a framework, presents the research contain or assuage the spread precipitate all categories of method and technique, and highlights the findings and enterprises to minimize brick-and-mortar marketing and to presents conclusion.
+
+strengthen digital interactions and transactions. COVID-19
+
+pandemic has changed the way of lives of many businesses and has further given credence to fast adoption of digital Literature Review
+
+devices; it has further flattened the ingrained capability gaps Social Media Marketing Technology
+
+between the formal and informal sectors by forcefully repo-sitioning MSMEs to compete effectively with large enter-Social media marketing technology (SMMT) is a flexible prises, regardless of their limitations. Furthermore, as and customized digital applications that ensures integration markets for digital devices get saturated with large enter-of operations, functions, information, people, and processes prises (Awa, 2018; Ramdani et al., 2009; Rodrigues et al., via ubiquitous knowledge sharing (Davenport, 1998). The 2016), COVID-19 pandemic forces vendors’ divestiture into application covers, among others, such IT innovations that other market segments, including MSMEs, given their oper-involve Facebook, Twitter, telephone calls, E-mails, tele-ational agility and flexibility, and aggression for globaliza-grams, voice notes, SMS texts, Instagram, YouTube, and tion and sustainability. It is surprising that even with the WhatsApp, where consumers and producers interact and
+
+supposed additional push by COVID-19 experience; micro share contents and feedback real time (Dahnil et al., 2014; (in particular), small businesses are yet to exploit the oner-Kotler, 2011). Furthermore, its adoption is a deliberate socio-ous benefits of digital devices and SMMT. Shortly after the economic process (Orlikowski, 1993); the word deliberate COVID-19 lockdowns were relaxed in many states, many
+
+suggests known consequences of efficiency owing to elimi-small businesses had their stocks expired, owing to their full nation of complex and expensive interfaces among computer dependence on traditional brick-and-mortar transactions.
+
+systems (Awa et al., 2015). The socioeconomic process This further raises scholarly worries to understand the criti-involves its adoption to build customer-endorsed satisfaction cal underlying factors that influence digital interactions in and/or competitive advantage though adoption decision is developing economies. Unfortunately, the preponderance of often taken by diverse actors, who would normally wish to studies on SMMT adoption that are supposed to provide make informed decisions or consider emerging situations insight into the factors, predominantly emanate from the before making decisions (Orlikowski, 1993).
+
+Western World and large organizations (Bulearca & Supposedly, MSMEs are to buy into the SMMT’s poten-Bulearca, 2010; Rahayu & Day, 2017) and they often use tials faster, the new technologies will offer them the opportu-social media devices for commercial and social purposes nity to build competitive advantage. However, with the rapid without recourse to the adoption and implementation pro-spread of COVID-19 pandemic and programs to contain its cess of MSMEs (Federici, 2009; Napitupulu et al., 2018).
+
+spread, lockdowns and restriction of movements of people Furthermore, many SMMT studies that focused on the
+
+were witnessed globally, and adoption of digital devices such developing economies are more of cross-context studies as SMMT becomes imperative to all categories of enter-
+
+(Derham et al., 2011; Eze et al., 2019; Yunis et al., 2017; prises. In Nigeria, the COVID-19-induced lockdown is tak-Zafar & Mustafa, 2017), given the peculiarities in ing tolls on the socioeconomic activities, particularly those
+
+Eze et al.
+
+3
+
+of MSME, and forced MSMEs to be in dire need of
+
+especially for SMEs stems from awareness creation and IT-innovations that assuage their resource limitations, and business responsiveness, encouragement of patronage and strengthen collaboration and communications within the loyalty, and promotion of business growth and popularity.
+
+value chain, and ultimately improve customer-endorsed services. The SMMT provides a channel through which MSMEs Technology–Organization–Environment (T-O-E)
+
+connect with their customers while being physically
+
+separated.
+
+The removal of competitive and locational disadvantages amid limited resources makes MSMEs potential targets for MSMEs
+
+vendors of new technologies (Awa, 2018; Eze & Chinedu-Eze, 2018; Wymer & Regan, 2005). Given the need to It may be thorny to have a universally acceptable definition extend research and to understand and predict adoption fac-of MSMEs, because most proposed definitions are predomi-tors to make informed decision on strategies and/or tactics, nantly country context and relate to such fundamental mea-different theories emerged. Among them are the behavioral-surement metrics as annual turnover, fixed assets, based models and intentional-based models (see Ajzen, employment figures, and industry type (Awa & Ojiabo, 1991; Ajzen & Fishbein, 1980; Davis, 1989; Rogers, 1983; 2016; Napitupulu et al., 2018). According to Organization Tornatzky & Fleischer, 1990). Scholars (Awa, 2018; Awa & for Economic Co-operation and Development (2000), SMEs Ojiabo, 2016) emphasized the overlapping and determinis-employ about 500 persons; in the Netherlands, 250 employ-tic nature of some of these theories: Theory of reasoned ees; in Austria, between 200 employees, and in the United Action (TRA) is attitudinal, Technology Acceptance Model Kingdom, between 1 and 250 (Tilley & Tonge, 2003). In (TAM) undermines the interplay Innovation Diffusion the-Nigeria, Small and Medium Enterprise Development Agency ory (IDT) and Theory of Planned Behavior (TPB) overtly of Nigeria (2005) grouped SMEs into three categories with underplay the environmental and technological contexts.
+
+some parameters in line with Costello et al. (2007): micro—
+
+The constructs of TAM cross-cut some of those in IDT, just 1–10 employees, small 11–50 employees, and medium 51–
+
+as IDT’s constructs interfaced with T-O-E makes it almost 250 employees. The Japanese jargon of s mall is beautiful the most robust and populous IS framework. However,
+
+(Awa et al., 2015) as supposedly supported by Tom T-O-E taxonomies underpin this study for some obvious Friedman’s the world is flat (Friedman, 2005) presupposes reasons; first, the taxonomies have pragmatic flexibility to encouraging the informal sector or SMEs, given that they are explain and predict ways small enterprises implement fresh the key to development and drive employment (Awa, 2018; technologies (Madukua et al., 2016).
+
+Ramdani et al., 2009; Trudel et al., 2012). SMEs account(s) Rui (2007) posits that the T-O-E taxonomies provide use-for 96% to 99% of enterprises create about 80% of economic ful and less cerebral analytical tool that helps to explore and growth in most organizations in the Western world (Federici, understand enterprise-level drivers and essential physiogno-2009; Jutla et al., 2002).
+
+mies of new devices. Second, regardless of its major snag of In Nigeria, Ihua (2009) estimated that nearly 97% of busi-applying more to large enterprises, the T-O-E framework is nesses are SMEs and generate employment and industrial effective, most prevailing, and has classic and generic factors outputs worth 50%. SMEs raise the standard of living and that meet the scholarly yearning for more socioeconomic critically contribute to advancement of nations socially and framework (Awa, Ukoha, & Igwe, 2017; Jacobsson & financially. Scholars (Awa, 2018; Eze et al., 2013; Shiau et Linderoth, 2010) that pragmatically explains and predicts al., 2009) posit that the limited resources explain why most adoption of new technologies. T-O-E framework is consid-SMEs respond slowly to the adoption process of new appliered more enriched with a wider range of contexts and fac-cations. Although government have supported SMEs to
+
+tors (than other frameworks) in context of this study. Third, enable them tap the potentials of modern IT innovations, it is the framework has earned enormous cross-context empirical comparatively known that not much of such business in and theoretical supports in different IS domains (see Awa & Nigeria and most developing nations use the applications Ukoha, 2016; Ramdani et al., 2009; Wang et al., 2010) and extensively to design customer-endorsed product-delivery underpinned many adoption inquiries (Awa & Ojiabo, 2016; attributes. Although SMMT aids businesses (Eze et al., 2014; Awa, Ukoha, & Igwe, 2017; Eze et al., 2018) more than any Shankar et al., 2010), Leppäniem et al. (2004) recalled that other framework. Furthermore, other scholars (see Awa et most SMEs in Nigeria have not been able to integrate appli-al., 2015; Awa & Ojiabo, 2016; Hossain & Quaddus, 2011; cations into their marketing strategies.
+
+Musawa & Wahab, 2012) have continually worked on them Hence, this research is essential to in exploring the under-to broaden their theoretical base. The theory proposes that lying issues that may lead to the adoption of SMMT by adoption is shaped by technology, organization, and environ-SMEs in Nigeria, given the critical roles of real-time and ment context (Chatterjee et al., 2002). The factors provide smooth interactions, and feedbacks, and the attempt to critical theoretical direction to scholarships, including those remain strategic and proactive. The vitality of SMMT
+
+that examined the adoption of SMMT. Technology context
+
+4
+
+SAGE Open
+
+
+
+
+
+Research Method
+
+
+Coverage
+
+
+Samples were taken from Local Government Authorities
+
+(LGAs) in Imo State, Nigeria. Generally, MSME’s operations in Imo State have not met any desired results that would necessitate encouragement of their establishment, suste-nance, growth, and even development by the government and other key players. This is because the margin between enterprises that collapse within their 5 years of existence is wider than those that survive within the same period of existence. This limits their essence in terms of employment creation, economies of scale, provision of facilities, and state of peace (Obi et al., 2016). According to the NBS (2019), the zone in Nigeria that has the highest number of performing SMEs is the south-western states compared to Imo state which is among the south-Eastern states. This shows that MSMEs therein are behind in performance, and the perception of such backslide in performance is explained by their inability to adopt effective marketing channel that will aid their marketing performance. In a bid to have insight into the Figure 1. Analytical framework.
+
+underlying factors that influence SMMT, data were drawn Note. SMMT = social media marketing technology; SMEs = small- and from rounds of interview responses from IT consultancy medium-sized enterprises.
+
+firms, IT and software developers, security firms, and so on.
+
+The participants for the first round were MSME managers, consists of tools and procedures and aims at improving enter-and those for the second round were managers, consultants, prise’s output and operational efficiency.
+
+IT experts, and business analysts (Table 2 tells better). These Scholars (Awa & Ojiabo, 2016; Sabherwal et al., 2006) caliber of people possess the experience and knowledge that relate it to the pool of technologies and expertise that are will help the investigators to get accurate and authenticated significant though within or outside of a firm, and as well as information about the phenomenon under investigation.
+
+learning and experience curves, pilot-test and experimenta-tion, visibility and imagination, technical and organizational Approach and Sampling
+
+compatibility, infrastructural availability, security and reliability, cost structure, and vendors’ support. The organization Most studies in technology adoption have relied heavily on perspective deals with the availability and use of internal testing variables and confirming their findings (William et resources that appear in descriptive measures (Alalwan et al., al., 2009). Although these techniques are widely accepted, 2018; Sabherwal et al., 2006). The elements popularly pro-Silva (2007) argued that technology adoption studies need to posed by scholars (Awa & Ojiabo, 2016; Eze at al., 2018; engage more of explanatory theories and methods that aid Sabherwal et al., 2006; Tornatzky & Fleischer, 1990) are understanding of phenomena in greater details. A qualitative scope of business operations, top management support, orga-method is an alternative approach that offers rich and insight-nizational culture, power relations, human and material ful outcomes (Lee, 2003); hence, the study used this approach resources, and IT competence under organizational factors.
+
+to understand in details the KSFs that shape the adoption of Finally, the environmental context is linked to forces that SMMT by MSMEs. Figure 2 depicts a framework showing
+
+operationally enable and/or constrain the adopt decision.
+
+step-by-step approach to the study. Extant literature was Among the factors are market and competitive pressures, reviewed to identify the literature gaps and develop research industry structure and business location, government enact-objectives. A study of this type requires discovery and ments and regulations, and technology infrastructure such as detailed explanations of people’s views and experiences; availability of vendors and IT consultants (Alalwan et al., thus, the need to adopt a purposive sampling technique for 2018; Oliveira & Martins, 2011).
+
+data collection. The justification for a purposive sample was However, these factors provide both adoption opportuni-to select units of analysis to help make realistic assessment ties and threats, and in this study, the codes and themes will about the research objectives (Eze et al., 2014; Mason, 1996; unveil the factors most critical to the adoption of SMMT by Schultze & Avital, 2011; Schwarz & Chin, 2007; Silva, SMEs. The analytical framework for the study in Figure 1 is 2007). Furthermore, snowball sampling technique was
+
+presented in the following.
+
+adopted, which complimented the purposive sampling
+
+Eze et al.
+
+5
+
+Table 1. Interview Profile: Study Participants (Preliminary Study).
+
+Interview participants
+
+Function
+
+Business size
+
+Sector
+
+Location of the business
+
+P1
+
+Manager
+
+100
+
+IT consultancy company
+
+Owerri-West
+
+P2
+
+Manager
+
+25
+
+Security
+
+Owerri-North
+
+P3
+
+Manager
+
+50
+
+Telecom company
+
+Owerri-Central
+
+P4
+
+Head of operations
+
+2
+
+Telecom company
+
+Owerri-West
+
+Table 2. The Main Profile of Participants.
+
+Interview participants
+
+Function
+
+Business size
+
+Sector
+
+Location of the business
+
+P5
+
+Chief Executive Officer (CEO)
+
+50
+
+IT developers
+
+Njaba
+
+P6
+
+Managing Director
+
+10
+
+Research, training, and development Owerri-West
+
+P7
+
+Managing Director
+
+100
+
+Security outfit
+
+Owerri-West
+
+P8
+
+PA to Director
+
+35
+
+Financial sector
+
+Orlu
+
+P9
+
+Site Engineer
+
+50
+
+Telecom sector
+
+Abo Mbaise
+
+P10
+
+Division Manager
+
+30
+
+Retails outlet
+
+Okigwe
+
+P11
+
+Owner manager
+
+20
+
+Telecom sector
+
+Okigwe
+
+P12
+
+IT Director
+
+65
+
+Security services
+
+Ikeduru
+
+P13
+
+CEO
+
+10
+
+Estate management
+
+Ikeduru
+
+P14
+
+Own Manager
+
+15
+
+Estate management
+
+Nwaorubi
+
+P15
+
+IT manager
+
+25
+
+IT Consultancy
+
+Ikeduru
+
+P16
+
+Owner and Manager
+
+5
+
+Financial management
+
+Ikeduru
+
+P17
+
+Owner and Manager
+
+1
+
+Internet and digital marketing
+
+Oru-East
+
+P18
+
+Business Analyst
+
+20
+
+Financial sector
+
+Oru-West
+
+P19
+
+Operating Manager
+
+5
+
+Security and Training outfit
+
+Owerri West
+
+P20
+
+IT executive
+
+70
+
+IT sector
+
+Uguta
+
+because the initial set of participants helped the researchers (preliminary study) of the interview was please explain to us to contact others who took part in the interview process.
+
+the key factors that influence your business to adopt SMMT.
+
+Interviews were conducted into two stages. This involve two Responses from this initial question spurred further probing rounds of data collection processes using unstructured (first questions. Outcomes of the initial stage of the preliminary round) and semi-structured (second round) interviews.
+
+investigation (unstructured interviews) aid in designing In the first stage, four participants were interviewed. This semi-structured interview questions that lead to the second interview was fairly unstructured because it was open, flexi-stage of the interview.
+
+ble, and experimental in nature involving complex interac-At the second stage, 16 semi-structured interviews were tion (Mason, 1996). This excise was carried out to know the carried out. The key questions relate to their current SMMT
+
+existing situation of SMMT adoption by MSMEs to have an adoption status—the T-O-E factors that shape SMMT and unrestricted opinion. Also, the interviews were carried out to the impact of such applications on SMEs. Tables 1 and 2
+
+test and find out how applicable and appropriate the three show a summary of interviewee’s profile. These tables show concepts of T-O-E would be in terms of analyzing and cod-the interview participants (P1 to P20), their roles, company ing the raw data to the appropriate categories when further size, sector, and location of the business. It is important to interviews are conducted. The aim is to ascertain how credi-note that before the participants were interviewed, a letter ble the concepts are before further coding and analysis.
+
+was formally written and sent to them emphasizing the aim However, the inclusion of technology, organization, and and assurance of confidentiality. This exercise lasted for environment contexts associated with T-O-E was informed about 1 hr and all the interviews were documented and by the initial application of the concepts to the interview transliterated.
+
+data. The sample was produced from Local Business
+
+The study adopts thematic method of data analysis.
+
+Directories, where 80 MSME owners were selected; and fur-Thematic analysis is a technique that encompasses examin-ther contacted randomly, whereupon 4 interviewees partici-ing, ascertaining, analyzing, recording, and unveiling themes pated and in interviewed. The condition for sampling was that are relevant to the subject studied (Boyatzis, 1998; based on SMEs that use one form of SMMT or the other in Braun & Clarke, 2006). This technique is considered the pri-the last 5 years. The key question at the preliminary stage mary method for analyzing qualitative data because of the
+
+6
+
+SAGE Open
+
+Figure 2. Research process.
+
+core skills it provide for different approaches (Braun & appropriate categories, the definitions and descriptions of Clarke, 2006) due to the multifaceted nature of analyzing three context of T-O-E framework were written in simpler qualitative study. Specifically, the study adopted hybrid language using code names, definition associated with each approach (see Boyatzis, 1998) because codes were both the-code. The guideline is shown in Table 3. Stage 3: to ensure oretically (T-O-E factors) and empirically (information con-that the codes drawn from theory and the one drawn from the text) driven.
+
+raw data would apply to the raw data in Stage 2; four tran-The data analysis involved seven stages (see Figure 3). In scribed interviews at the first stage of the research were stages 1 and 2: the concepts of T-O-E were developed ini-coded manually into appropriate categories. Subsequently, tially from literature, and empirically driven codes (commu-consistency check was ascertained for all the codes to see nication) which emerged during the analysis was the bases how credible and applicable they are for successive raw data.
+
+for exploration. In a bid to code the raw data into the To ascertain reliability, the initial coding exercise of the first
+
+Eze et al.
+
+7
+
+Figure 3. The data analysis process.
+
+Source. Eze et al. (2019).
+
+Table 3. Reliability Analysis.
+
+Reliability
+
+Areas
+
+Judges
+
+First judges
+
+Second judges
+
+Factors underlying the adoption of SMMT
+
+4
+
+0.846 (84.6%)
+
+0.725 (73.5%)
+
+Note. SMMT = social media marketing technology.
+
+four interviews was subjected to judges (colleagues) to relate Findings
+
+the codes and supporting evidence against to the categories.
+
+The outcome score of the reliability test surpassed 70% yard-Tables 5 and 6 present findings of the study. Tables 5 and 6
+
+stick suggested by Miles and Huberman (1994) in Table 4.
+
+show the factors underlying the adoption of SMMT by
+
+Stage 4: All the transcribed data at this stage were
+
+MSME with the sample supporting cases and sample sup-
+
+imported into NVivo. NVivo software facilitated the analysis porting evidences, respectively. The findings were grouped and organization of enormous amount of data transliterated.
+
+based on the codes developed from theory and the empiri-Stage 5: at this stage, all the coded data were recovered from cally driven code. These codes and themes were adopted NVivo and were practically grouped (see Table 3).
+
+based on the participants’ own views, opinion, literature, and Stage 6: The inter-rate reliability was performed using themes that emerged.
+
+percent agreement at this stage. This was necessary because validation is constantly required in qualitative study. Hence, Proposed Adoption Model
+
+the finding (codes and themes) were presented to experts who were originally contacted to compare the codes against The model in the following depicts factors that influence the themes that emerged (Boyatzis, 1998). Stage 7: At this MSMEs’ adoption of SMMT. Table 6 and Figure 4 report
+
+stage, codes that were further validated were analyzed and that although T-O-E contexts shape SMMT adoption by
+
+interpreted. This overall process demonstrates how the MSMEs, the communication context has critical significance researchers analyzed, verified and reported the data which is in the successful adoption process. This suggests that testi-part of the research design shown in Figure 3 below.
+
+monial, expert knowledge, word-of-mouth publicity or the
+
+8
+
+SAGE Open
+
+Table 4. Guideline for Coding.
+
+Code
+
+Definition
+
+Description
+
+Technology
+
+Technology context focuses on internal and external
+
+This is indicated by respondents’ repeated mentioning of technological factors underling MSMEs’ adoption of
+
+technology forces such as compatibility and affordability.
+
+SMMT.
+
+Organization
+
+Organizational context relates to firm’s resources and This was evidenced by the respondents’ mention of
+
+factors that shape SMMT.
+
+such organizational factors and resources as efficiency, support from owners, and so on.
+
+Environment
+
+Environmental context constitutes internal and external This occurred when respondents echoed and re-echoed environmental forces that underlay decision to use
+
+such environmental resources as provider’s credibility SMMT.
+
+and intelligent gathering.
+
+Communication
+
+The communication context focuses on relevant
+
+This indicates when respondents echoed that factors
+
+information sources underlay MSMEs to adopt SMMT.
+
+such as testimonial, word-of-mouth can influence SMMT
+
+Note. SMMT = social media marketing technology.
+
+Table 5. Codes, Themes, and Sample Supporting Cases.
+
+Codes and themes (factors)
+
+Sample cases
+
+Total cases
+
+Code 1: Technology context
+
+Technology compatibility
+
+P3, P6, P8, P10, P11,P12, P 13, P16
+
+8/20
+
+Technology affordability
+
+P1, P2, P4, P 7, P9, P10,
+
+6/20
+
+Code 2: Organizational context
+
+Users’ acceptance information
+
+P2, P4, P6, P5, P7, P9, P12, P14, P20
+
+9/20
+
+Efficiency driven
+
+P5, P 6, P10, P11, P12, P13
+
+8/20
+
+Owner’s support
+
+P2, P5, P9, P10, P12, P 22
+
+6/20
+
+Code 3: Environmental context
+
+Competitors Intelligence gathering
+
+P1, P8, P9, P10, P12, P13, P14, P15, P18, P20
+
+10/20
+
+Information gathering by customers
+
+P3, P5, P6, P10, P14, P15, P18
+
+7/20
+
+Credibility of the providers
+
+P1, P2, P3, P5, P9, P12, P15, P18, P20
+
+9/20
+
+Code 4: Information context
+
+Testimonial
+
+P1, P2, P3, P5, P9, P12, P16, P15, P18, P20
+
+10/20
+
+Expert as a source of communication
+
+P6, P7, P9, P11, P12, P13, P15, P18, P20
+
+9/20
+
+Word of mouth
+
+P4, P10, P11,P12,P13, P14, P16, P17, P19,P20
+
+10/20
+
+use of experiential knowledge to reduce or douse the per-and/or experiences. These observations were highlighted by ceived risks of others (especially new adopters) critically participants and captured in Tables 5 and 6. Refer to the asser-influence the adoption of SMMT by MSMEs aside the
+
+tions of S8, S3, and S16 and their respective cross-case sup-themes that emerged under the technology, organization, and ports to confirm this finding. The finding suggests that if the environment categories.
+
+MSMEs fail to consider compatibility of the technology before adoption, it may result to considerable financial losses.
+
+This is similar to some preceding enquiries (see Adomavicius Results and Discussion
+
+et al., 2008; Investopedia, 2018; Tong et al., 2020). These studies are of the view that small business manager’s inability Technology Context
+
+to comprehend the ability of the technology application make Technology compatibility. Technology compatibility considers recruitment of workforce with comparable skills difficult dur-how SMMT aligns with extant values and experiences, as ing execution.
+
+well as the beliefs of small businesses (Castelo & Thalmann, 2019; Rogers, 2003). Evidence showed that small business Technology affordability. Technology affordability explains the owners adopt social media applications if they are cost-effec-gain linked to implementation of SMMT in relation to the tiveness and compatible with existing beliefs and processes; cost of acquiring it. The finding shows that the decision of thus, they show willingness to try applications that are adapt-SMMT adoption is shaped by cost-benefit analysis in such a able to the existing organizational arrangement and that are way that the application leads business growth client’s satis-less expensive and require little or no new learning/training faction, employee efficiency, and productivity of the
+
+Eze et al.
+
+9
+
+Table 6. Themes and Sample Supporting Pieces of Evidence.
+
+Technology context
+
+Technology compatibility
+
+For us, what we consider first from the onset is the compatibility of the SSMT in relation to the existing application or devices we already have? The answer to this question will determine if we are likely to adopt it or not. (P8) Technology affordability
+
+How affordable is the technology? Often, before a decision is reached a cost-benefit analysis is carried out to establish if such will be relatively cheap and still meet our need and satisfy our clients. (P1) Organization context
+
+Users’ acceptance
+
+What we do most time is to teach people in order to fully comprehend the technology in a way they will better information
+
+appreciate what it can help them achieve. (P4)
+
+Efficiency driven
+
+Can the application assist us in improving our business process on a day to day basis and remain competitive with less stress? If the answer to the question is yes, we are motived not only to try but to implement it. (P5) Owner’s support
+
+We often allow employees ‘input and initiatives in order to help us improve the business processes through the automation of the technology which in turn reduces the workforce. (P4) Environment context
+
+Competitors’ intelligence The approach we use in adopting any device will relatively dependent on what our competitors are doing. This will gathering
+
+help us improve our activities and become even efficient. (P18) Information gathering by
+
+Yes, I must say that our clients also determine what kind of device the company uses. Most often than not, we customers
+
+decide to adhere to what our clients’ desire for us. (P3) The credibility of the
+
+We will be messing ourselves up if we do not take into account the environmental dynamics, and who the providers
+
+providers are and their intensions. Hence one of the vital information we often obtain is the providers’
+
+capabilities and their possible relations to our actions before a decision is reached. (P12) Communication context
+
+Testimonial
+
+Our clients sometimes, provide information to us about what and how they feel about certain devices, though others that tried certain applications or seen them worked effectively elsewhere, often encourage us to try them.
+
+(S16)
+
+Expert
+
+Before we take a decision on any new application, we often consult and seek experts’ advice in that area of business. This help us in becoming confident about certain applications we intend to use. (S6) Word of mouth
+
+For us, through conversation we get to know or have knowledge about the type of applications industries inventing or what others similar firms are using. (P5)
+
+technology. Tables 5 and 6 report the comments of S1 and S2
+
+Ciechanowski et al., 2019; Nguyen et al., 2015) confirmed and the cross-case supports that affirm this finding. This find-that employees would often abandoned any new applications ing is in line with a number of studies (see Ciechanowski et if their initiatives and input are not considered during adop-al., 2019; Nguyen et al., 2015; Seyal & Rahim, 2006) that tion decisions process.
+
+argued that cost is an important factor considered in the adoption decision process of new technologies by MSMEs. There-Efficiency driven. Sound and effective applications enhance fore, attention must be given to the cost implications of any adoption, because MSMEs’ managers are often interested in applications before reaching a decision.
+
+how an application would assist to automate present procedures and improve the organization’s strategy and customer Organizational Context
+
+satisfaction. Themes from participants S5 and S6, and their cross-theme supports in Tables 5 and 6, deal with this find-User acceptance information. User acceptance information in ing. Thus, MSMEs often evaluate the opportunities and this context is defined as the extent employees’ and business threats, strengths, and weaknesses offered by SMMT before owners’ confidence and behavior influence the adoption of decisions are reached as the device may assist in cutting cost SMMT. Evidence revealed that employees, customers, ven-and improve productivity (De Haan et al., 2018; Dubé et al., dors, and other key actors play critical role in policymaking 2017; Higón, 2012).
+
+of the new application. Hence, adoption is assumed taken for granted if the interests of key actors are not well captured at Owner’s support. It was obvious that small business manag-the decision-making time. Themes from participants S4 and ers have role to play in ensuring that their workers are S6 in Tables 5 and 6 align with this finding and have huge inspired and encouraged to take part at taking decisions that cross-case supports. Thus, interaction of different people will aid the adoption of SMMT. This is usually carried out by either within or outside the business contributes to the suc-way of training and support of workers to symposium and cess or failure of the adoption of any SMMT. Similarly, stud-other related training that reveal the essence of adopting the ies (Andries & Debackere, 2006; Castelo & Thalmann, 2019; emerging application. The themes from participants S4 and
+
+10
+
+SAGE Open
+
+Figure 4. SMMT adoption model for MSMEs.
+
+Note. SMMT = social media marketing technology; MSMEs = Micro, Small, and Medium Enterprises.
+
+S5 and their cross-theme supports as reported in Tables 5 and world, decision and implementation of the application are 6 confirmed this finding. Studies (Economides & Jeziorski, easier. Similarly, it has been argued that IT implementation is 2017; Ramdani et al., 2009) affirmed that when employees always fruitful if the top executives help support its adoption are encouraged to develop themselves along the digital and implementation (Gangwar et al., 2015; Lian et al., 2014).
+
+Eze et al.
+
+11
+
+Environmental Context
+
+have significant impacts on adoption and implementation of digital marketing devices.
+
+Competitor’s intelligence gathering. Competitive advantage is a key driver of SMMT adoption and must not be played
+
+Experts. The opinions and know-how of experts such as down on by MSMEs. MSMEs must consider the environ-consultants, IT experts, and vendors are vital for ensuring ment to know the role new technology plays, and how com-that the right kind of SMMT is acquired. SMEs see advice petitors implemented SMMT and the competitive benefit to experts in obtaining the right information that might lead associated. Implicit is that S18 and S8, and their cross-case to successful adoption of SMMT. In most cases, these
+
+supporters, as reported in Tables 5 and 6 confirm this find-experts are linked to IT staff who work with the organiza-ing. Studies (Lam et al., 2014) show that if businesses fail to tion or IT sub-contractors who are contractors to the busi-continually gather intelligence about competitors, it may be ness. This was echoed and re-echoed in the statements hard to establish the right SMMT that might lead to high made by S6 and S7 and cross-case supporters in Tables 5
+
+performance overtime.
+
+and 6. Choo (2001) found experts’ opinions are key to Customer information gathering. Putting together customer adopting the required IT application (Auster & Choo, 1993; information is critical to ensuring new applications’ suc-Salamzadeh et al., 2019).
+
+cessful adoption, because satisfying customers’ needs and aspirations guide strategy development (Mehrtens et al., Word-of-mouth publicity. It was revealed that the value SMEs 2001). It is one thing to satisfy customers and it is another place on the information gathered from the providers often to know how the new applications can assist to do that. This triggers adoption decisions. The IT providers engage in step-was the position of participants S3 and S5 and their sup-by-step sequence of enlightening MSME owners/managers porters (see Table 5 and 6). Scholars (Alshamaila et al., on any SMMT. Themes from participants S5 and S4 and
+
+2013; Beckinsale et al., 2006; Ghobakhloo et al., 2011) those of cross-case supporters align with this finding (see emphasized customer sovereignty and customer the king Tables 5 and 6). Studies show that word-of-mouth permits and warned businesses not to neglect customer require-MSMEs to obtain updated information relating to the cost-ments, especially in times of making decision on the adop-benefit, security, and practical feature of the technology from tion of new applications.
+
+the providers (Nabwiiso, 2019; Radcliffe, 2018), whereas customers share their cost-free and firsthand experience to Provider credibility. Evidence revealed that shows that the reduce the perceived purchase risks of intending customers trustworthiness of the provider’s play significant role in (Li et al., 2017; Zimmer et al., 2007).
+
+adopting of SMMT. Most times, information gathered from the external context such as suppliers, consultants, and ven-Conclusion
+
+dors influence the adoption decision; thus, most MSME
+
+The study explored the KSFs that underlying MSMEs adop-owners are very cautious in selecting these set of actors that tion of SMMT in Nigeria. The work developed a conceptual seems trustworthy. Participants S12 and S18 and their cross-framework underpinned by T-O-E contexts to assist MSMEs case supporters are in line with this finding. This finding syn-to understand the KSFs that underlie their adoption of onymous with previous inquiries (Chibelushi & Costello, SMMT. While the study applauds T-O-E framework for its 2009; Kurnia et al., 2015) that report that SMEs compare the strong theoretical strides, it revealed that other factors out-providers’ experience and sincerity, as well as the functional-side the T-O-E contexts shape adoption of SMMT; hence, the ity of the applications as against extant others before an study proposed an extended T-O-E framework to encapsulate informed and consistent decision is reached.
+
+the informational context. The extended framework pro-Informational Context
+
+posed critical factors that influence SMMT adoption—technology compatibility and technology affordability are critical Testimonial. Information shared among adopters and non-factors under technology context; users’ acceptance informa-adopters or among peers influence MSMEs’ adoption of
+
+tion, efficiency-driven, and owner’s support are those of SMMT. Such testimonies reduce the perceived risk of the organizational context; competitor’s intelligence gathering, adopters as they are often linked to reviews, experiential customer’s information gathering, and provider credibility knowledge, and commendations by partners who have tried are of environmental context; and testimonial, experts, and the device. Such assist businesses to appreciate the features word-of-mouth fall within the informational context.
+
+of the technology better than the promoters’ message content However, the theoretical contribution of this study
+
+and designs. When we refer to Tables 5 and 6, participant strongly stems from the proposed extended framework of S16 and his cross-case supporters made obvious claims that T-O-E contexts and factors; a framework that is significantly affirm this finding. Studies (Ghose et al., 2019; D. Grewal et amenable to MSMEs’ adoption behavior and provides criti-al., 2017, 2018) show that recommendations from managers cal analytical scope of SMMT adoption in Nigeria. The with firsthand experience on the use of digital technology framework incorporates informational context and sought to
+
+12
+
+SAGE Open
+
+further contribute to the growing robustness of the original References
+
+T-O-E contexts and factors. The relatively low adoption of Adomavicius, G., Bockstedt, J. C., Gupta, A., & Kauffman, R. J.
+
+SMMT by MSMEs in less developed nations and the cross-
+
+(2008). Making sense of technology trends in the informa-context differences of extant findings lay credence to the tion technology landscape: A design science approach. MIS
+
+proposed extended framework, because of the idiosyncratic Quarterly, 32(4), 779–809.
+
+givens of every economy. In particular, the extended frame-Ajzen, I., & Fishbein, M. (Eds.). (1980). Understanding attitudes work provides scholarly direction and knowledge within the and predicting social behavior. Prentice-Hall.
+
+context of developing economies and complements the
+
+Alalwan, A., Dwived, Y., Rana, N., & Algharabat, R. (2018).
+
+robust body of knowledge from developed economies.
+
+Examining factors influencing Jordanian customers’ intentions Practically, the environment is obviously volatile and and adoption of internet banking: Extending UTAUT2 with risk. Journal of Retailing and Consumer Services, 40, 125–138.
+
+firms seek ways to remain continually competitive using Alshamaila, Y., Papagiannidis, S., & Li, F. (2013). Cloud comput-digital applications. The proposed extended framework pro-ing adoption by SMEs in the North East of England: A multi-vides MSMEs with useful grounds to make informed deci-perspective framework. Journal of Enterprise Information sion to adopt SMMT, without losing grip of the critical Management, 26(3), 250–275.
+
+factors that would cause such adoption to build competitive Andries, P., & Debackere, K. (2006). Adaptation in new technology-advantage. MSMEs could usefully tap into the framework to based ventures: Insights at the company level. International understand factors underlying SMMT adoption. The vendors Journal of Management Reviews, 8(2), 91–112.
+
+may be strategically guided on how to package and promote Auster, E., & Choo, C. W. (1993). Environmental scanning by SMMT programs and models to appeal to the customer audi-CEOs in two Canadian industries. Journal of the American ences, given that the study unveils the critical adoption fac-Society for Information Science, 44(4), 194–203.
+
+tors that would reflect on the selling points.
+
+Awa, H. (2018). Some antecedent factors that shape actors’ adoption of enterprise systems. Enterprise Information Systems, 13,
+
+576–600. https://doi.org/10.1080/17517575.2018.1466368
+
+Limitations and Future Research
+
+Awa, H., & Ukoha, O. (2016). A model of adoption determinants of ERP within T-O-E. Journal of Information Technology & Finally, we argue that this framework cannot be generalizabil-People, 24(4), 901–930.
+
+ity because of the number of interviewed conducted for the Awa, H., Ukoha, O., & Emecheta, B. (2015). Integrating TAM, study. Hence, the formwork is required to be recognized across TPB, and TOE frameworks and expanding their Characteristic a larger population. More studies should deploy other tech-Constructs for e-commerce adoption by SMEs. Journal of nique to test framework across a wider population and use it as Science and Technology Policy Management, 1(2), 76–94.
+
+a standard for theoretical constructs that guide SMMT adop-Awa, H., Ukoha, O., & Igwe, S. (2017). Revisiting technology-tion. Although the framework may not exactly apply to other organization-environment (T-O-E) theory for enriched appli-third world countries or other states within Nigeria because of cability. The Bottom Line, 30(1), 2–22.
+
+Awa, H., Ukoha, O., & Orokor, L. (2017). Integrated technology-differences in the use of these devices, more studies are organization-environment (T-O-E) taxonomies for technology required to replicate and retest the framework and possibly adoption. Journal of Enterprise Information Management, build a theory. Hence, other factors that may shape the adop-30(6), 893–921.
+
+tion of SMMT to extend the applicability of the framework or Beckinsale, M., Levy, M., & Powell, P. (2006). Exploring internet ensure cross-context generalization are required. Although adoption drivers in SMEs. Electronic Markets, 16(4), 361–370.
+
+studies believe in the appropriateness of thematic data analysis Boyatzis, R. (1998). Transforming qualitative information: in this kind of study, the framework has drawbacks because Thematic analysis and code development. SAGE.
+
+the factors are incomplete. There are obviously other factors Braun, V., & Clarke, V. (2006). Using thematic analysis in psychol-which may positively underlie the adoption of SMMT; hence, ogy. Qualitative Research in Psychology, 3, 77–101.
+
+further studies are needed to unravel and incorporate such fac-Bulearca, M., & Bulearca, S. (2010). Twitter: A viable marketing tors by using diverse research methods.
+
+tool for SMEs? Global Business & Management Research, 2(4), 296–309.
+
+
+
+
+
+Declaration of Conflicting Interests
+
+
+Castelo, N., & Thalmann, N. (2019). Robot or human? Consumer perceptions of human-like robots [Working paper].
+
+The author(s) declared no potential conflicts of interest with respect Chatterjee, D., Grewal, R., & Sambamurthy, V. (2002). Shaping to the research, authorship, and/or publication of this article.
+
+up for e-commerce: Institutional enablers of the organizational assimilation of web technologies. MIS Quarterly, Funding
+
+26(2), 65–89.
+
+Chibelushi, C., & Costello, P. (2009). Challenges facing W.
+
+The author(s) received no financial support for the research, author-Midlands ICT-oriented SMEs. Journal of Small Business and ship, and/or publication of this article.
+
+Enterprise Development, 16(2), 210–239.
+
+Choo, C. W. (2001). Environmental scanning as information seek-ORCID iD
+
+ing and organizational learning. Information Research, 7, 7–1.
+
+Sunday C. Eze
+
+https://orcid.org/0000-0001-5707-8536
+
+http://informationr.net/ir/7-1/paper112.html
+
+Eze et al.
+
+13
+
+Ciechanowski, L., Przegalinska, A., Magnuski, M., & Gloor, P.
+
+Gandomi, A., & Haider, M. (2015). Beyond the hype: Big data (2019). In the shades of the uncanny valley: An experimen-concepts, methods, and analytics. International Journal tal study of human–chatbot interaction. Future Generation of Information Management, 35(2), 137–144. https://doi.
+
+Computer Systems, 92, 539–548.
+
+org/10.1016/j.ijinfomgt.2014.10.007
+
+Costello, P., Sloane, A., & Moreton, R. (2007). IT evaluation Gangwar, H., Date, H., & Ramaswamy, R. (2015). Understanding frameworks- Do they make available contribution? A critique determinants of cloud computing adoption using an inte-of some of the classic models for use by SMEs. The Electronic grated TAM-TOE model. Journal of Enterprise Information Journal Information Systems Evaluation, 10(1), 57–64.
+
+Management, 28, 107–130.
+
+Dahnil, M. I., Marzuki, K. M., Langgat, J., & Fabeil, N. F.
+
+Gbandi, E. C., & Amissah, G. (2014). Financing options for (2014). Factors influencing SMEs adoption of social media small and medium enterprises (SMEs) in Nigeria. European marketing. Procedia: Social and Behavioral Sciences, 148, Scientific Journal, 10(1), 327–340.
+
+119–126.
+
+Ghose, A., Kwon, H. E., Lee, D., & Oh, W. (2019). Seizing the Davenport, T. (1998). Putting the enterprise into the enterprise sys-commuting moment: Contextual targeting based on mobile tem. Harvard Business Review, 76, 121–131.
+
+transportation apps. Information Systems Research, 30(1), Davis, F. D. (1989). Perceived usefulness, perceived ease of use 154–174.
+
+and acceptance of information technology. MIS Quarterly, Grewal, D., Ahlbom, C. P., Beitelspacher, L., Noble, S. M., 3(3), 319–340.
+
+Nordfält, J. (2018). In-store Mobile phone use and customer De Haan, E., Kannan, P. K., Verhoef, P. C., & Wiesel, T. (2018).
+
+shopping behaviour: Evidence from the field. Journal of Device switching in online purchasing: Examining the strate-Marketing, 82(4), 102–126.
+
+gic contingencies. Journal of Marketing, 82(5), 1–19.
+
+Grewal, D., Roggeveen, A. L., & Nordfält, J. (2017). The future of Doshmanli, M., Salamzadeh, Y., & Salamzadeh, A. (2018).
+
+retailing. Journal of Retailing, 93(1), 1–6.
+
+Development of SMEs in an emerging economy: Does cor-
+
+Higón, D. A. (2012). The impact of ICT on innovation activities: porate social responsibility matter? International Journal of Evidence for UK SMEs. International Small Business Journal, Management & Enterprise Development, 17(2), 168–191.
+
+30(6), 684–699.
+
+Dubé, J.-P., Fang, Z., Fong, N., & Luo, X. (2017). Competitive Hossain, M., & Quaddus, M. (2011). The adoption and continued Price targeting smartphone coupons. Marketing Science, 36(6), usage intention of RFID: An integrated framework. Information 944–975.
+
+Technology & People, 24(3), 236–256.
+
+Eagleman, A. N. (2013). Acceptance, motivations, and usage of Ihua, B. (2009). SMEs key failure-factors: A comparison between social media as a marketing communications tool amongst the United Kingdom and Nigeria. Journal of Social Sciences, employees of sport national governing bodies. Sport 18(3), 199–207.
+
+Management Review, 16(4), 488–497.
+
+Investopedia. (2018). Mobile advertising definition. https://www.
+
+Economides, N., & Jeziorski, P. (2017). Mobile money in Tanzania.
+
+investopedia.com/terms/m/mobile-advertising.asp
+
+Marketing Science, 36(6), 815–837.
+
+Jacobsson, M., & Linderoth, H. (2010). The influence of contextual Eze, S. C., Awa, H., Okoye, J., Emecheta, B., & Anazodo, R.
+
+elements, actors frames of references and technology on the (2013). Determinant Factors of Information Communication adoption and use of ICT in construction projects: A Swedish Technology (ICT) Adoption by government-owned universi-case study. Construction Management and Economics, 28, ties in Nigeria: A qualitative approach. Journal of Enterprise 13–23.
+
+Information Management, 26(4), 427–443.
+
+Jones, P., Simmons, G., Packham, G., Beynon-Davies, P., & Eze, S. C., & Chinedu-Eze, C. V. (2018). Examining informa-Pickernell, D. (2014). An exploration of the attitudes and tion and communication technology (ICT) adoption in SMEs: strategic responses of sole-proprietor micro-enterprises in A dynamic capabilities approach.” Journal of Enterprise adopting ICT. International Small Business Journal, 32(3), Information Management, 31(2), 338–356.
+
+285–306.
+
+Eze, S. C., Chinedu-Eze, V. C., Bello, A. O., Inegbedion, H., Jutla, D., Bodorik, P., & Dhaliwal, J. (2002, August). Government Nwanji, T., & Asamu, F. (2019). Mobile marketing technology support for the e-readiness of SMEs. 35th Annual Hawaii adoption in service SMEs: A multi-perspective framework.
+
+International Conference on System Sciences, HI, United Journal of Science and Technology Policy Management, 10, States.
+
+569–596. https://doi.org/10.1108/JSTPM-11-2018-0105
+
+Kotler, P. (2011). Reinventing marketing to manage the environ-Eze, S. C., Dean, Y., & Chin, H. (2014). Examining emerging mental imperative. Journal of Marketing, 75(4), 132–135.
+
+ICT’s Adoption in SMEs from a dynamic process approach.
+
+Kurnia, S., Choudrie, J., Mahbubur, R. M., & Alzougool, B. (2015).
+
+Information Technology & People, 27(1), 63–82.
+
+E-commerce technology adoption: A Malaysian grocery SME
+
+Eze, S. C., Olatunji, S., Chinedu-Eze, V. C., & Bello, A.O. (2018), retail sector study. Journal of Business Research, 68(9), 1906–
+
+Key success factors influencing SME managers’ information 1918.
+
+behaviour on emerging ICT (EICT) adoption decision-making Lam, C. K., Huang, X., & Chan, S. C. (2014). The threshold in UK SMEs. The Bottom Line, 31(3/4), 250–275.
+
+effect of participative leadership and the role of leader infor-Federici, T. (2009). Factors influencing ERP outcomes in SMEs: mation sharing. Academy of Management Journal, 58(3), A post-introduction assessment. Journal of Enterprise 836–855.
+
+Information Management, 22(1/2), 81–98.
+
+Lee, Y. (2003). The technology acceptance model: Past, present Friedman, T. (2005). The world is flat: A brief history of 21st cen-and future. Communication of the Association of Information tury. Farrar, Straus & Giroux.
+
+Systems, 12(50), 752–780.
+
+14
+
+SAGE Open
+
+Leppäniem M., Karjaluoto H., & Salo J. (2004). The success fac-Rahayu, R., & Day, J. (2017). E-commerce adoption by SMEs tors of the mobile advertising value chain. E-Business Review, in developing countries: Evidence from Indonesia. Eurasian 4, 93–97.
+
+Business Review, 7(1), 25–41.
+
+Li, C., Luo, X., Zhang, C., & Wang, X. (2017). Sunny, rainy, and Ramdani, B., Kawalek, P., & Lorenzo, O. (2009). KM and enter-cloudy with a chance of Mobile promotion effectiveness.
+
+prise systems adoption by SMEs: Predicting SMEs adop-
+
+Marketing Science, 36(5), 762–779.
+
+tion of enterprise systems. Journal of Enterprise Information Lian, J. W., Yen, D. C., & Wang, Y. T. (2014). An exploratory Management, 22(1/2), 10–24.
+
+study to understand theoretical factors affecting the decision Rodrigues, L., Oliveira, A., & Costa, C. (2016). Does ease-of-use to adopt cloud computing in Taiwan hospital. International contributes to the perception of enjoyment? A case of gami-Journal of Information Management, 34(1), 28–36.
+
+fication in e-banking. Computers in Human Behavior, 61, Madukua, D. K., Mpinganjirab, M., & Duhca, H. (2016).
+
+114–126.
+
+Understanding mobile marketing adoption intention by South Rogers, E. (ed.) (1983). Diffusion of innovation. New York: Free African SMEs: A multi-perspective framework. International Press.
+
+Journal of Information Management, 36(5), 711–723.
+
+Rui, G. (2007). Information systems innovation adoption among Mason, J. (1996). Qualitative researching. SAGE.
+
+organizations: A match-based framework and empirical stud-Mehrtens, J., Cragg, P. B., & Mills, A. M. (2001). A model of inter-ies [Master’s thesis]. University of Singapore.
+
+net adoption by SMEs. Information & Management, 39(3), Sabherwal, R., Jeyaraj, A., & Chowa, C. (2006). Information 165–176.
+
+system success: Individual and organizational determinants.
+
+Miles, M. B., & Huberman, A. M. (1994). Qualitative data analy-Management Science, 52(12), 1849–1864.
+
+sis: An expanded sourcebook. SAGE.
+
+Salamzadeh, A., Radovic Markovic, M., & Masjed, S. M. (2019).
+
+Musawa, M., & Wahab, E. (2012). The adoption of EDI technol-The effect of media convergence on exploitation of entrepre-ogy by Nigerian SMEs: A conceptual framework. Journal of neurial opportunities. AD-Minister, 34, 59–76.
+
+Business Management & Economics, 3(2), 55–68.
+
+Schultze, U., & Avital, M. (2011). Designing interviews to gener-Nabwiiso, S. (2019). Africa next big mobile market, a new report ate rich data for information systems research. Information and reveals. https://www.busiweek.com/africa-next-big-mobile-
+
+Organization, 21(1), 1–16.
+
+market-a-new-report-reveals/
+
+Schwarz, A., & Chin, W. (2007). Looking forward: Toward an Napitupulu, D., Syafrullah, M., Rahim, R., Abdullah, D., & understanding of the nature and definition of IT acceptance.
+
+Setiawan, M. I. (2018). Analysis of user readiness toward Journal of the Association for Information Systems, 8(4), ICT usage at small medium enterprise in South Tangerang.
+
+230–243.
+
+Journal of Physics: Conference Series, 1007(1), 1–6. https://
+
+Seyal, A. H., & Rahim, M. M. (2006). A Preliminary investiga-
+
+doi.org/10.1088/1742-6596/1007/1/012042
+
+tion of electronic data interchange adoption in Bruneian small NBS. (2017). 41.5m MSMEs Registered in 2017 NBS/SMEDAN
+
+business organizations. The Electronic Journal of Information National Survey. https://smedan.gov.ng/41-5m-msmes-regis-
+
+Systems in Developing Countries, 24, 1–21.
+
+tered-in-2017-nbs-smedan-national-survey/
+
+Shankar, V., Venkatesh, A., Hofacker, C., & Naik, P. (2010).
+
+Nguyen, T. H., Newby, M., & Macaulay, M. J. (2015). Information Mobile marketing in the retailing environment: Current insight technology adoption in small business: Confirmation of a pro-and future research avenue. Journal of Interactive Marketing, posed framework. Journal of Small Business Management, 24, 111–120.
+
+53(1), 207–227.
+
+Shapiro, C., & Varian, H. (1999). Information rules. Harvard Obi, P. E., Ajaero, O. O., & Obi, B. C. (2016). Repositioning the Business School Press.
+
+small and medium scale enterprises in Imo state for peace capac-Shiau, W., Hsu, P., & Wang, J. (2009). Development of measures ity and national development. Approaches in International to assess the ERP adoption of small and medium enterprises.
+
+Journal of Research Development, 10(1), 1–21.
+
+Journal of Enterprise Information Management, 22(1/2), 99–
+
+Organisation for Economic Co-operation and Development. (2000).
+
+118.
+
+Local access pricing and E-commerce: An update on the statistics.
+
+Silva, L. (2007). Post -positivist review of technology acceptance Okundaye, K., Fan, S. K., & Dwyer, R. J. (2019). Impact of model. Journal of the Association for Information Systems, Information and communication technology in Nigeria small 8(4), 255–266.
+
+to medium-sized enterprises. Journal of Economics, Finance & Small and Medium Enterprise Development Agency of Nigeria.
+
+Administrative Science, 24(47), 29–46. https://doi.org/10.1108/
+
+(2005, January–June 1). SME Success Digest, 3.
+
+JEFAS-08-2018-0086
+
+Smutkupt, P., Krairit, D., & Esichaiku, V. (2010). Mobile market-Oliveira, T., & Martins, M. F. (2011). A literature review of informa-ing: Implications for marketing strategies. Mobile Marketing tion technology adoption models at firm level. The Electronic Association, 5(10), 126–139.
+
+Journal Information Systems Evaluation, 14, 110–121.
+
+Tilley, F., & Tonge, J. (2003). Introduction. In F. Tilley & J. Tonge Orlikowski, W. (1993). Case tools as organizational change: (Eds.), Advantages in SME: Organizing for innovation and Investigating incremental and radical changes in systems change. John Wiley.
+
+development. MIS Quarterly, 17(3), 309–341.
+
+Tob-Ogu, A., Kumar, N., & Cullen, J. (2018). ICT adoption in Radcliffe, D. (2018). Mobile in Sub-Saharan Africa: Can the road freight transport in Nigeria—A case study of the petro-world’s fastest-growing mobile region keep it up? https://
+
+leum downstream sector. Technological Forecasting &
+
+www.zdnet.com/article/mobile-in-sub-saharan-africa-can-
+
+Social Change, 131, 240–252. https://doi.org/10.1016/j.tech-
+
+worlds-fastest-growing-mobile-region-keep-it-up/
+
+fore.2017.09.021
+
+Eze et al.
+
+15
+
+Tobora, O. O. (2014). Challenges faced by entrepreneurs and the Williams, M., Dwivedi, Y. K., Lal, B., & Schwarz, A. (2009).
+
+performance of small and medium scale enterprises (SMEs) in Contemporary trends and issues in IT adoption and diffusion Nigeria: An intellectual Capital issue. International Letters of research. Journal of Information Technology, 24, 1–10.
+
+Social and Humanistic Sciences, 42, 32–40.
+
+Wymer, S., & Regan, E. (2005). Factors influencing e-commerce Tong, S., Luo, X., & Xu, B. (2020). Personalized mobile marketing adoption and use by small and medium businesses. Electronic strategies. Journal of the Academy of Marketing Science, 48, Markets, 15(4), 438–453.
+
+64–78.
+
+Yunis, M., El-Kassar, A., & Tarhini, A. (2017). Impact of ICT-Tornatzky, L., & Fleischer, M. (1990). The processes of technologi-based innovations on organizational performance: The role of cal innovation. Lexington Books.
+
+corporate entrepreneurship. Journal of Enterprise Information Trudel, M., Paré, G., & Laflamme, J. (2012). Health information Management, 30(1), 122–141. https://doi.org/10.1108/JEIM-
+
+technology success and the art of being mindful: Preliminary
+
+01-2016-0040
+
+insights from a comparative case study analysis. Health Care Zafar, A., & Mustafa, S. (2017). SMEs and its role in economic Management Review, 37(1), 31–42.
+
+and socio-economic development of Pakistan. International Vlados, C., & Chatzinikolaou, D. (2019). The multiple percep-Journal of Academic Research in Accounting, Finance and tion of innovation: The case of micro and small enterprises Management Sciences, 7(4), 195–205.
+
+in the region of Eastern Macedonia and Thrace. Journal of Zanjani, S. S., Gholamali, A., & Abbasi, D. (2013). Social net-Entrepreneurship, Business and Economics, 7(1), 17–41.
+
+works and the success of SMEs in media industries. Journal of Wang, Y., Wang, Y., & Yang, Y. (2010). Understanding the Entrepreneurship, Business and Economics, 1(1/2), 125–139.
+
+determinants of RFID adoption in the manufacturing indus-Zimmer, J. C., Henry, R. M., & Butler, B. S. (2007). Determinants try. Technological Forecasting & Social Change, 77(5), of the use of relational and non-relational information sources.
+
+803–815.
+
+Journal of Management Information Systems, 24, 297–331.
+
+View publication stats
+
+
+
+
+
