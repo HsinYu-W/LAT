@@ -5,7 +5,6 @@
 * 會選擇這個主題，也是因為時裝周的照片通常是會由專業攝影師露出，只要一搜尋品牌關鍵字，就算沒有親臨時裝周現場，便可以很快地進行統整，所以是很適合用藉由電腦判讀節省時間、增加效率的學習工具
 -----
 * [Homework 5 codes](https://github.com/HsinYu-W/LAT/blob/main/HW5/main.js)
+*  [Valentino 2022 主視覺顏色分析](valentino.png)
 * [Chanel 2022 主視覺顏色分析](chanel.png)
 * [Luious Vitton 2022 主視覺顏色分析](luious vitton.png)
-* [Valentino 2022 主視覺顏色分析](valentino.png)
-* 
