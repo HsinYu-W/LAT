@@ -26,13 +26,6 @@
 
 
 -----
-$(document).ready(function(){
-    //do something
-    $("#thisButton").click(function(){
-        processImage();
-    });
-    });
-
 
 function processImage() {
     
